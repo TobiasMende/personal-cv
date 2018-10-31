@@ -8,13 +8,15 @@ theme = "coder"
     info = "Software Craftsman"
     description = "Tobias Mende's personal website"
     keywords = "blog,developer,personal"
-#    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.jpg"
 
-#    favicon_32 = "/img/favicon-32x32.png"
-#    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
 
     hidecredits = false
     hidecopyright = true
+
+    custom_css = ["css/custom.css"]
 
 # Social Icons
 [[params.social]]
@@ -53,6 +55,12 @@ theme = "coder"
     url = "https://www.xing.com/profile/Tobias_Mende/cv"
 
 # Menu links
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "/about/"
+
 [[menu.main]]
     name = "Blog"
     weight = 1
