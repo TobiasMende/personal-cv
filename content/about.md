@@ -12,11 +12,13 @@ I studied computer science in Lübeck until 2015. Since then I work for Dräger 
 
 In my spare time, I enjoy to learn new programming languages and to develop software in other languages such as Java Script, Ruby, Python or Objective-C.
 
-You can find some but not all of my projects on my Github account. If you want to know more about my skills, my interests or my history or if you want to connect with me, fell free to take a look on my Xing or LinkedIn profiles or follow me on Twitter.
+You can find some but not all of my projects on my [Github](https://github.com/TobiasMende/) account. If you want to know more about my skills, my interests or my history or if you want to connect with me, fell free to take a look on my [Xing](https://www.xing.com/profile/Tobias_Mende/cv) or [LinkedIn](https://www.linkedin.com/in/tobiasmende/) profiles or follow me on [Twitter](https://twitter.com/tobias_mende).
+
+In my spare time I like diving, skiing and coding on some site- and open source projects.
 
 ## About the [blog](https://blog.tobias-men.de)
 
-I started this blog due to three main reasons. First, during my daily work I learn a lot interesting stuff and I want to share and persist my knowledge. Second, I want to discuss these topics with others and hope to learn even more. Hence most of the posts in this blog will be about software engineering dependent topics.
+I started these blog due to three main reasons. First, during my daily work I learn a lot interesting stuff and I want to share and persist my knowledge. Second, I want to discuss these topics with others and hope to learn even more. Hence most of the posts in this blog will be about software engineering dependent topics.
 
 Last but not least, I decided to write this blog in English since I feel that I am not writing or speaking enough in English in my day to day work and therefore I need another opportunity to preserve or even extend my language skills.
 

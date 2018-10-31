@@ -5,7 +5,7 @@ theme = "coder"
 
 [params]
     author = "Tobias Mende"
-    info = "Software Craftsman"
+    info = "Software Craftsman, Remote Worker, Diver"
     description = "Tobias Mende's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/profile-square.jpg"
@@ -65,3 +65,13 @@ theme = "coder"
     name = "Blog"
     weight = 1
     url  = "https://blog.tobias-men.de"
+
+[[menu.main]]
+    name = "Imprint"
+    weight = 1
+    url  = "/imprint/"
+
+[[menu.main]]
+    name = "Privacy Policy"
+    weight = 1
+    url  = "/privacy-policy/"
