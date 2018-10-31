@@ -8,7 +8,7 @@ theme = "coder"
     info = "Software Craftsman"
     description = "Tobias Mende's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/profile-square.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
