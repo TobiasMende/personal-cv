@@ -1,3 +1,59 @@
-baseURL = "http://example.org/"
+baseURL = "https://tobias-men.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tobias Mende"
+theme = "coder"
+
+[params]
+    author = "Tobias Mende"
+    info = "Software Craftsman"
+    description = "Tobias Mende's personal website"
+    keywords = "blog,developer,personal"
+#    avatarurl = "images/avatar.jpg"
+
+#    favicon_32 = "/img/favicon-32x32.png"
+#    favicon_16 = "/img/favicon-16x16.png"
+
+    hidecredits = false
+    hidecopyright = true
+
+# Social Icons
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/TobiasMende/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/TobiasMende"
+
+[[params.social]]
+    name = "StackOverflow"
+    icon = "fab fa-stack-overflow fa-2x"
+    weight = 3
+    url = "https://stackoverflow.com/users/3795833/tobiasmende"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 4
+    url = "https://twitter.com/tobias_mende"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 5
+    url = "https://www.linkedin.com/in/tobiasmende/"
+
+[[params.social]]
+    name = "Xing"
+    icon = "fab fa-xing fa-2x"
+    weight = 6
+    url = "https://www.xing.com/profile/Tobias_Mende/cv"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "https://blog.tobias-men.de"
