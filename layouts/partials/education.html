@@ -1,0 +1,20 @@
+<section class="container cv">
+    <h1>{{ .Site.Data.education.name }}</h1>
+    {{ range .Site.Data.education.source }}
+    <article>
+      <header>
+        <h1>{{ .title }} ({{ .degree }})</h1>
+        <span>{{ .univ }}</span>
+        <span>
+          <address>{{ .place }}</address>
+          <time>{{ .date }}</time>
+        </span>
+      </header>
+      <ul>
+          {{ range .details }}
+            <li><em>{{ title .title }}:</em> {{ .description }}</li>
+          {{ end }}
+      </ul>
+    </article>
+    {{ end }}
+  </section>

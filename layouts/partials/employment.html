@@ -1,0 +1,17 @@
+<section class="container cv">
+    <h1>{{ .Site.Data.employment.name }}</h1>
+    {{ range .Site.Data.employment.source }}
+    <article>
+      <header>
+        <h1>{{ .prof }}</h1>
+        <span>
+          <address>{{ .place }}</address>
+          <time>{{ .time }}</time>
+        </span>
+      </header>
+      <p>{{ .description }}
+          {{ if .technologies }} <br /><em>Technologies:</em>  {{ delimit .technologies ", " }} {{ end }}
+        </p>
+    </article>
+    {{ end }}
+  </section>

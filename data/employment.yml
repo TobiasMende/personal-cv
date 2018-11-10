@@ -1,0 +1,83 @@
+name: Practical Experience
+source:
+  - prof: Software Developer
+    place: BS PAYONE GmbH, Remote
+    time: 07/2018 to Present
+    description: "Development of payment connectors and fraud prevention systems. Refactoring of monolithic applications to self-contained services."
+    technologies:
+      - Java
+      - Spring
+      - Spring Boot
+      - ActiveMQ
+      - Karaf
+      - OSGi
+      - Camel
+      - Docker
+      - Elastic Search
+      - Kibana
+      - Jenkins Pipelines
+      - Git
+
+  - prof: Software Engineer
+    place: Dräger Safety GmbH & Co. KGaA, Lübeck, Germany
+    time: 09/2015 to 06/2018
+    description: "Application development for distributed gas detection systems. Teaching Git, Git Workflows and TDD. Driving Software Craft awareness."
+    technologies:
+      - C++
+      - Qt
+      - Jenkins Pipelines
+      - Mercurial
+      - Git
+      - Java
+      - Groovy
+      - Python
+      - Docker
+      - Azure Edge
+
+  - prof: Self-Employed in an Ancillary Trade
+    place: TOBSOLUTION, Lübeck, Germany
+    time: 03/2004 to 08/2015
+    description: "Developing custom web pages and web applications for small and medium businesses. Providing IT support and consulting as well as webhosting."
+    technologies:
+      - HTML5
+      - CSS
+      - JavaScript
+      - PHP
+      - Ruby on Rails
+      - Wordpress
+
+  - prof: Student Research Assistant
+    place: Institute of Telematics, University of Lübeck, Germany
+    time: 09/2013 to 07/2015
+    description: "I/O-programming in Ruby an Java for research projects. Administration of teaching groups for C++ and Java programming."
+    technologies:
+      - Java
+      - Ruby
+      - Netty
+      - Git
+      - XMPP
+
+  - prof: Student Research Assistant
+    place: Institute of Technical Computer Science, University of Lübeck, Germany
+    time: 01/2014 to 08/2014
+    description: "Development of algorithms for the position control of autonomous underwater vehicles (AUVs) in C++ using the Robot Operating System (ROS). Setup of a coherent system for technical documentation, version control and continuous integration for AUV projects."
+    technologies: 
+      - C++
+      - ROS
+      - Git
+
+  - prof: Student Teaching Assistant
+    place: Institute for Software Engineering and Programming Languages, University of Lübeck, Germany
+    time: 10/2011 to 07/2013
+    description: "Exercise instructor for the module Software Engineering. 􏰀Advisor for the software engineering practicum."
+
+  - prof: Student Research Assistant
+    place: Institute of Telematics, University of Lübeck, Germany
+    time: 09/2011 to 03/2012
+    description: "Design and development of distributed algorithms for autonomous vehicles."
+    technologies:
+      - Java
+      - Android
+      - JNI
+      - Git
+      

@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  {{ partial "employment.html" . }}
+  {{ partial "education.html" . }}
+  {{ partial "skills.html" . }}
+  {{ partial "initiatives.html" . }}
+  {{ partial "hobbies.html" . }}
+{{ end }}

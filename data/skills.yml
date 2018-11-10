@@ -1,0 +1,32 @@
+name: Skills
+source:
+  - title: Programming Languages
+    source:
+      - name: [Java, C++]
+        stars: 5
+
+      - name: [Python, Groovy, Scala]
+        stars: 4
+
+      - name: [Ruby, HTML5, CSS3, JavaScript, SQL, Objective-C]
+        stars: 3
+
+      - name: [Haskell, PHP, Assembler, Matlab, C, Go (golang)]
+        stars: 2
+
+  - title: Technologies and Tools
+    source:
+      - name: [REST, Ansible, Unix Shell, Qt, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Mercurial, Maven, qmake, IntelliJ]
+        stars: 5
+
+      - name: [Spring (Boot), NodeJS, Java EE, Cocoa, Docker, Vagrant, MySQL, MQTT, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
+        stars: 4
+
+      - name: [Karaf, OSGi, Camel, Selenium, Google Protobuf, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode]
+        stars: 3
+
+      - name: [Azure, AWS, NoSQL, PostgreSQL, React, Angular, Eclipse]
+        stars: 2
+
+certificates: 
+    - iSAQB Certified Professional For Software Architecture (Foundation Level)

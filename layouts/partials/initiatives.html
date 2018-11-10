@@ -1,0 +1,8 @@
+<section class="container cv">
+    <h1>{{ .Site.Data.initiatives.name }}</h1>
+    <ul>
+        {{ range .Site.Data.initiatives.source }}
+        <li><em>{{ .title }}</em> – {{ .date }}</li>
+        {{ end }}
+    </ul>
+  </section>
