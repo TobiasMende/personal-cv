@@ -2,31 +2,37 @@ name: Skills
 source:
   - title: Programming Languages
     source:
-      - name: [Java, C++]
+      - name: [Java, C++, JavaScript]
         stars: 5
 
-      - name: [Python, Groovy, Scala]
+      - name: [Python, Groovy]
         stars: 4
 
-      - name: [Ruby, HTML5, CSS3, JavaScript, SQL, Objective-C]
+      - name: [Scala, HTML5, CSS3, SQL, Objective-C]
         stars: 3
 
-      - name: [Haskell, PHP, Assembler, Matlab, C, Go (golang)]
+      - name: [TypeScript, Ruby, C, Matlab]
         stars: 2
+      
+      - name: [Go (golang), Haskell, PHP, Assembler]
+        stars: 1
 
   - title: Technologies and Tools
     source:
       - name: [REST, Ansible, Unix Shell, Qt, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Mercurial, Maven, qmake, IntelliJ]
         stars: 5
 
-      - name: [Spring (Boot), NodeJS, Java EE, Cocoa, Docker, Vagrant, MySQL, MQTT, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
+      - name: [Spring (Boot), NodeJS, Java EE, Docker, Vagrant, MySQL, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
         stars: 4
 
-      - name: [Karaf, OSGi, Camel, Selenium, Google Protobuf, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode]
+      - name: [Karaf, OSGi, Camel, React, Selenium, Google Protobuf, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode, MQTT]
         stars: 3
 
-      - name: [Azure, AWS, NoSQL, PostgreSQL, React, Angular, Eclipse]
+      - name: [AWS, NoSQL, Angular, Eclipse, Cocoa]
         stars: 2
+      
+      - name: [Azure, PostreSQL, Kafka]
+        stars: 1
 
 certificates: 
     - iSAQB Certified Professional For Software Architecture (Foundation Level)
