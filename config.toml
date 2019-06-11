@@ -67,11 +67,6 @@ theme = "coder"
     url  = "/cv/"
 
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "https://blog.tobias-men.de"
-
-[[menu.main]]
     name = "Imprint"
     weight = 1
     url  = "/imprint/"

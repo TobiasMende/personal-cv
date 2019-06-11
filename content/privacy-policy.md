@@ -41,8 +41,10 @@ Please note that data transmitted via the internet (e.g. via email communication
 The party responsible for processing data on this website is:
 
 Tobias Mende
-Stadtweide 93
-23562 Lübeck
+AMN Data Solution #456780<br />
+Glogauer Str. 5<br />
+10999 Berlin<br />
+Germany
 
 Telephone: +49 451 7072134
 Email: i@tobias- men.de

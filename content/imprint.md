@@ -7,20 +7,24 @@ draft: false
 ## Information provided according to Sec. 5 German Telemedia Act (TMG):
 
 Tobias Mende<br />
-Stadtweide 93<br />
-23562 Lübeck
+AMN Data Solution #456780<br />
+Glogauer Str. 5<br />
+10999 Berlin<br />
+Germany<br />
+(Letters only)
 
 ## Contact:
 
 Telephone: +49 451 7072134<br />
-Telefax: +49 451 7072135<br />
 Email: i@tobias-men.de
 
 ## Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 
 Tobias Mende<br />
-Stadtweide 93<br />
-23562 Lübeck
+AMN Data Solution #456780<br />
+Glogauer Str. 5<br />
+10999 Berlin<br />
+Germany
 
 ## Liability for Contents
 
