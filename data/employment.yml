@@ -9,14 +9,15 @@ source:
       - Spring
       - Spring Boot
       - ActiveMQ
+      - Puppet
+      - Jenkins Pipelines
+      - Docker
+      - Git
+      - Kibana
+      - Elastic Search
       - Karaf
       - OSGi
       - Camel
-      - Docker
-      - Elastic Search
-      - Kibana
-      - Jenkins Pipelines
-      - Git
 
   - prof: Software Engineer
     place: Dräger Safety GmbH & Co. KGaA, Lübeck, Germany

@@ -5,10 +5,10 @@ source:
       - name: [Java, C++, JavaScript]
         stars: 5
 
-      - name: [Python, Groovy]
+      - name: [HTML5, CSS3, Python, Groovy]
         stars: 4
 
-      - name: [Scala, HTML5, CSS3, SQL, Objective-C]
+      - name: [Scala, SQL, Objective-C]
         stars: 3
 
       - name: [TypeScript, Ruby, C, Matlab]
@@ -19,16 +19,16 @@ source:
 
   - title: Technologies and Tools
     source:
-      - name: [REST, Ansible, Unix Shell, Qt, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Mercurial, Maven, qmake, IntelliJ]
+      - name: [Spring (Boot), REST, Ansible, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ]
         stars: 5
 
-      - name: [Spring (Boot), NodeJS, Java EE, Docker, Vagrant, MySQL, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
+      - name: [Qt, Mercurial, qmake, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
         stars: 4
 
-      - name: [Karaf, OSGi, Camel, React, Selenium, Google Protobuf, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode, MQTT]
+      - name: [React, Karaf, OSGi, Camel, Selenium, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode, MQTT]
         stars: 3
 
-      - name: [AWS, NoSQL, Angular, Eclipse, Cocoa]
+      - name: [AWS, NoSQL, Angular, Eclipse, Google Protobuf, Cocoa]
         stars: 2
       
       - name: [Azure, PostreSQL, Kafka]
