@@ -2,11 +2,14 @@
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-<div class="container">  
+<article class="container page">  
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
   {{ partial "employment.html" . }}
   {{ partial "education.html" . }}
   {{ partial "skills.html" . }}
   {{ partial "initiatives.html" . }}
   {{ partial "hobbies.html" . }}
-</div>
+</article>
 {{ end }}
