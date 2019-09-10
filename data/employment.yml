@@ -1,39 +1,59 @@
 name: Practical Experience
 source:
-  - prof: Software Developer
-    place: BS PAYONE GmbH, Remote
+  - prof: Software Developer / Architect
+    place: PAYONE GmbH, Remote
     time: 07/2018 to Present
     description: "Development of payment connectors and fraud prevention systems. Refactoring of monolithic applications to self-contained services."
     technologies:
-      - Java
-      - Spring
-      - Spring Boot
+      - Java 8
+      - Groovy
+      - Spring 4 / 5
+      - Spring Boot 2
+      - Swagger
       - ActiveMQ
       - Puppet
-      - Jenkins Pipelines
+      - Ansible
+      - Apache
+      - Tomcat
+      - Jenkins and Jenkins Pipelines
       - Docker
+      - Rancher
       - Git
       - Kibana
       - Elastic Search
       - Karaf
       - OSGi
       - Camel
+      - Jira
+      - Confluence
+      - Bitbucket
+      - IntelliJ
+      - VSCode
+      - Kanban
 
   - prof: Software Engineer
     place: Dräger Safety GmbH & Co. KGaA, Lübeck, Germany
     time: 09/2015 to 06/2018
     description: "Application development for distributed gas detection systems. Teaching Git, Git Workflows and TDD. Driving Software Craft awareness."
     technologies:
-      - C++
+      - C++ (98/11/17)
       - Qt
-      - Jenkins Pipelines
       - Mercurial
       - Git
+      - Jenkins and Jenkins Pipelines
       - Java
       - Groovy
       - Python
       - Docker
       - Azure Edge
+      - Jira
+      - Confluence
+      - Bitbucket
+      - QtCreator
+      - IntelliJ
+      - VSCode
+      - Scrum
+      - Kanban
 
   - prof: Self-Employed in an Ancillary Trade
     place: TOBSOLUTION, Lübeck, Germany
