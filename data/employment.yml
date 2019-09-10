@@ -66,6 +66,8 @@ source:
       - PHP
       - Ruby on Rails
       - Wordpress
+      - Apache
+      - Nginx
 
   - prof: Student Research Assistant
     place: Institute of Telematics, University of Lübeck, Germany
@@ -77,6 +79,7 @@ source:
       - Netty
       - Git
       - XMPP
+      - IntelliJ
 
   - prof: Student Research Assistant
     place: Institute of Technical Computer Science, University of Lübeck, Germany
@@ -86,6 +89,7 @@ source:
       - C++
       - ROS
       - Git
+      - Eclipse
 
   - prof: Student Teaching Assistant
     place: Institute for Software Engineering and Programming Languages, University of Lübeck, Germany
@@ -101,4 +105,5 @@ source:
       - Android
       - JNI
       - Git
+      - ImtelliJ
       
