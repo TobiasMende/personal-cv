@@ -8,21 +8,21 @@ source:
       - name: [HTML5, CSS3, Python, Groovy]
         stars: 4
 
-      - name: [Scala, SQL, Objective-C]
+      - name: [TypeScript, SQL, Objective-C]
         stars: 3
 
-      - name: [TypeScript, Ruby, C, Matlab]
+      - name: [PHP, Ruby, C, Matlab]
         stars: 2
       
-      - name: [Go (golang), Haskell, PHP, Assembler]
+      - name: [Go (golang), Scala, Clojure, Assembler]
         stars: 1
 
-  - title: Technologies and Tools
+  - title: Technologies, Tools and Methods
     source:
-      - name: [Spring (Boot), REST, Ansible, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ]
+      - name: [Spring (Boot), REST, Ansible, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ, Kanban, Scrum, TDD, CI/CD]
         stars: 5
 
-      - name: [Qt, Mercurial, qmake, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Gradle, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
+      - name: [Rancher, Qt, Mercurial, qmake, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
         stars: 4
 
       - name: [React, Karaf, OSGi, Camel, Selenium, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode, MQTT]

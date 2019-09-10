@@ -2,9 +2,11 @@
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
+<div class="container">  
   {{ partial "employment.html" . }}
   {{ partial "education.html" . }}
   {{ partial "skills.html" . }}
   {{ partial "initiatives.html" . }}
   {{ partial "hobbies.html" . }}
+</div>
 {{ end }}
