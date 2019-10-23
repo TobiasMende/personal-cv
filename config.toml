@@ -16,7 +16,7 @@ theme = "coder"
     hidecredits = false
     hidecopyright = true
 
-    custom_css = ["css/custom.css"]
+    custom_css = ["css/custom.css", "css/print.css"]
 
 # Social Icons
 [[params.social]]
