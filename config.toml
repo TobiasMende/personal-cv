@@ -5,7 +5,7 @@ theme = "coder"
 
 [params]
     author = "Tobias Mende"
-    info = "Software Craftsperson, Remote Worker, Traveler"
+    info = "Software Craftsperson, Freelancer, Remote Worker"
     description = "Tobias Mende's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/profile-square.jpg"
@@ -55,6 +55,11 @@ theme = "coder"
     url = "https://www.xing.com/profile/Tobias_Mende/cv"
 
 # Menu links
+
+[[menu.main]]
+    name = "Hire me!"
+    weight = 1
+    url  = "/hire/"
 
 [[menu.main]]
     name = "About"
