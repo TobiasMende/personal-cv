@@ -17,4 +17,4 @@ If you are looking for a remote software craftsperson to extend your existing te
 - ... build new remote teams with you.
 
 ### Contact
-You can contact me via [email](mailto:freelancer@tobias-men.de), [Twitter](https://twitter.com/tobias_mende) or [LinkedIn](https://www.linkedin.com/in/tobiasmende/).
+You can contact me via [email](mailto:freelancing@mende.io), [Twitter](https://twitter.com/tobias_mende) or [LinkedIn](https://www.linkedin.com/in/tobiasmende/).
