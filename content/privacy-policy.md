@@ -63,4 +63,3 @@ This site uses SSL or TLS encryption for security reasons and for the protection
 If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.
 <h3>Information, blocking, deletion</h3>
 As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
-<h2>3. Data collection on our website</h2>

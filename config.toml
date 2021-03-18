@@ -5,7 +5,7 @@ theme = "coder"
 
 [params]
     author = "Tobias Mende"
-    info = "Software Craftsperson, Freelancer, Remote Worker"
+    info = "Software Craftsperson, Remote Worker, Entrepreneur"
     description = "Tobias Mende's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/profile-square.jpg"
