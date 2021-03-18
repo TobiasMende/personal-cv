@@ -2,13 +2,13 @@ name: Skills
 source:
   - title: Programming Languages
     source:
-      - name: [Java, C++, JavaScript]
+      - name: [Kotlin, Java, C++, TypeScript]
         stars: 5
 
-      - name: [HTML5, CSS3, Python, Groovy]
+      - name: [JavaScript, HTML5, CSS3, SQL]
         stars: 4
 
-      - name: [TypeScript, SQL, Objective-C]
+      - name: [Python, Groovy, Objective-C]
         stars: 3
 
       - name: [PHP, Ruby, C, Matlab]
@@ -19,19 +19,19 @@ source:
 
   - title: Technologies, Tools and Methods
     source:
-      - name: [Spring (Boot), REST, Ansible, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ, Kanban, Scrum, TDD, CI/CD]
+      - name: [Spring (Boot), REST, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ, Kanban, Scrum, TDD, CI/CD]
         stars: 5
 
-      - name: [Rancher, Qt, Mercurial, qmake, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Coverity, Squish, Sonar, RubyMine, AppCode, PyCharm, WebStorm, QtCreator]
+      - name: [PostreSQL, Gradle, Ansible, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Sonar, RubyMine, AppCode, PyCharm, WebStorm]
         stars: 4
 
-      - name: [React, Karaf, OSGi, Camel, Selenium, Ruby on Rails, Gradle, cmake, make, VSCode, Vim, Xcode, MQTT]
+      - name: [AWS, React, Karaf, OSGi, Camel, Selenium, cmake, make, VSCode, Vim, Xcode, MQTT, Qt, Mercurial, qmake, Coverity, Squish, QtCreator]
         stars: 3
 
-      - name: [AWS, NoSQL, Angular, Eclipse, Google Protobuf, Cocoa]
+      - name: [NoSQL, Angular, Eclipse, Google Protobuf, Ruby on Rails, Cocoa]
         stars: 2
       
-      - name: [Azure, PostreSQL, Kafka]
+      - name: [Azure, Kafka]
         stars: 1
 
 certificates: 

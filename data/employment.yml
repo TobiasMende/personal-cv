@@ -1,8 +1,17 @@
 name: Practical Experience
 source:
+  - prof: Software Engineer
+    place: BRYTER GmbH, Remote
+    time: 06/2020 to present
+    description: "Development of backend services in the decision automation field."
+    technologies:
+      - Kotlin
+      - Spring Boot
+      - Docker
+      - GitLab
   - prof: Senior Software Developer / Architect
     place: PAYONE GmbH, Remote
-    time: 07/2018 to Present
+    time: 07/2018 to 05/2020
     description: "Development of payment connectors and fraud prevention systems. Refactoring of monolithic applications to self-contained services."
     technologies:
       - Java 8
