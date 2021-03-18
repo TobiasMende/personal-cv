@@ -57,11 +57,6 @@ theme = "coder"
 # Menu links
 
 [[menu.main]]
-    name = "Hire me!"
-    weight = 1
-    url  = "/hire/"
-
-[[menu.main]]
     name = "About"
     weight = 1
     url  = "/about/"
