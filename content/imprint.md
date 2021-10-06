@@ -16,7 +16,7 @@ Germany<br />
 ## Contact:
 
 Telephone: +49 451 7072134<br />
-Email: i@tobias-men.de
+Email: web@mende.io
 
 ## Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 

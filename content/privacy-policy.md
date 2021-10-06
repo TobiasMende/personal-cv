@@ -47,7 +47,7 @@ Glogauer Str. 5<br />
 Germany
 
 Telephone: +49 451 7072134
-Email: i@tobias- men.de
+Email: web@mende.io
 
 The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 <h3>Revocation of your consent to the processing of your data</h3>
