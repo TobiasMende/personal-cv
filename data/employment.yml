@@ -22,7 +22,7 @@ source:
       - Terraform
       - TypeScript
       - VueJS
-      - Tailwaind
+      - Tailwind
       - Web Components
       - NodeJS
       - GitLab
