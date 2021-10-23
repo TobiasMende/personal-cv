@@ -1,6 +1,6 @@
 name: Practical Experience
 source:
-  - prof: Software Engineer
+  - prof: Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to present
     description: "Development of backend services in the decision automation field. Technical and product leadership in a cross-functional platform unit."
@@ -13,6 +13,20 @@ source:
       - TypeScript
       - AWS
       - Kubernetes
+  - prof: Tech Lead / Architect / Full-Stack Engineer
+    place: Weels, Remote
+    time: 06/2021 to present
+    description: "Weels – Reels for your website – A tool for conversion optimisation."
+    technologies:
+      - AWS
+      - Terraform
+      - TypeScript
+      - VueJS
+      - Tailwaind
+      - Web Components
+      - NodeJS
+      - GitLab
+      - Docker
   - prof: Senior Software Developer / Architect
     place: PAYONE GmbH, Remote
     time: 07/2018 to 05/2020
