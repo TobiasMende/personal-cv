@@ -4,7 +4,6 @@ date: 2021-03-17T18:24:56+01:00
 draft: false
 ---
 
-## About me
 ![Picture of me](/images/about-profile.jpg#floatright)
 Hi, my name is Tobias and I am a software craftsperson from northern Germany born in 1990.
 

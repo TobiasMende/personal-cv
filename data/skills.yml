@@ -2,7 +2,7 @@ name: Skills
 source:
   - title: Programming Languages
     source:
-      - name: [Kotlin, Java, C++, TypeScript]
+      - name: [Kotlin, TypeScript, Java, C++]
         stars: 5
 
       - name: [JavaScript, HTML5, CSS3, SQL]
@@ -11,28 +11,28 @@ source:
       - name: [Python, Groovy, Objective-C]
         stars: 3
 
-      - name: [PHP, Ruby, C, Matlab]
+      - name: [Ruby, PHP]
         stars: 2
-      
-      - name: [Go (golang), Scala, Clojure, Assembler]
+
+      - name: [Go (golang), Scala, Clojure]
         stars: 1
 
   - title: Technologies, Tools and Methods
     source:
-      - name: [Spring (Boot), REST, Unix Shell, Jenkins Pipeline DSL, Jenkins, JIRA, Confluence, Bitbucket, GitHub, GitLab, Git, Maven, Docker, IntelliJ, Kanban, Scrum, TDD, CI/CD]
+      - name: [AWS, CI/CD, Docker, GitHub, GitLab, Gradle, IntelliJ, Kanban, PostgreSQL, REST, Spring (Boot), TDD]
         stars: 5
 
-      - name: [PostreSQL, Gradle, Ansible, NodeJS, Java EE, Vagrant, MySQL, ActiveMQ, Redmine, Sonar, RubyMine, AppCode, PyCharm, WebStorm]
+      - name: [ActiveMQ, Ansible, Java EE, Jenkins Pipeline DSL, Jenkins, Maven, MySQL, NodeJS, Selenium, Sonar, Terraform, VueJs]
         stars: 4
 
-      - name: [AWS, React, Karaf, OSGi, Camel, Selenium, cmake, make, VSCode, Vim, Xcode, MQTT, Qt, Mercurial, qmake, Coverity, Squish, QtCreator]
+      - name: [Express, Karaf, Kubernetes, MQTT, OSGi, React]
         stars: 3
 
-      - name: [NoSQL, Angular, Eclipse, Google Protobuf, Ruby on Rails, Cocoa]
+      - name: [Angular, Cocoa, Google Protobuf, NoSQL, Ruby on Rails]
         stars: 2
-      
+
       - name: [Azure, Kafka]
         stars: 1
 
-certificates: 
+certificates:
     - iSAQB Certified Professional For Software Architecture (Foundation Level)

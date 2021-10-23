@@ -6,24 +6,24 @@ draft: false
 
 ## Information provided according to Sec. 5 German Telemedia Act (TMG):
 
-Tobias Mende<br />
-AMN Data Solution #456780<br />
-Glogauer Str. 5<br />
-10999 Berlin<br />
-Germany<br />
+Tobias Mende  
+AMN Data Solution #456780  
+Glogauer Str. 5  
+10999 Berlin  
+Germany  
 (Letters only)
 
 ## Contact:
 
-Telephone: +49 451 7072134<br />
+Telephone: +49 451 7072134  
 Email: web@mende.io
 
 ## Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 
-Tobias Mende<br />
-AMN Data Solution #456780<br />
-Glogauer Str. 5<br />
-10999 Berlin<br />
+Tobias Mende  
+AMN Data Solution #456780  
+Glogauer Str. 5  
+10999 Berlin  
 Germany
 
 ## Liability for Contents

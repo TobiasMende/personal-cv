@@ -3,7 +3,7 @@
     {{ range .Site.Data.skills.source }}
     <article>
       <header>
-        <h1>{{ .title }}</h1>
+        <h3>{{ .title }}</h3>
       </header>
       {{ range .source }}
       <p>
@@ -15,7 +15,7 @@
     {{ end }}
     <article>
         <header>
-            <h1>Certificates</h1>
+            <h2>Certificates</h2>
         </header>
         {{ range .Site.Data.skills.certificates }}
         <p>
