@@ -11,6 +11,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
+disqusShortname = 'mende-2'
+
 [taxonomies]
 category = "categories"
 series = "series"
