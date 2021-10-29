@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-10-29T14:42:08+03:00
 title = "Cross-functional units and uni-functional teams"
 description = "How to set up your team structures for growth."
