@@ -82,10 +82,10 @@ author = "authors"
 
 # Menu links
 
-# [[menu.main]]
-#    name = "Blog"
-#    weight = 1
-#    url  = "/blog/"
+[[menu.main]]
+   name = "Blog"
+   weight = 1
+   url  = "/blog/"
 
 [[menu.main]]
     name = "About"
