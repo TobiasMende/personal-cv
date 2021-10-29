@@ -4,8 +4,8 @@ date = 2021-10-29T14:42:08+03:00
 title = "Cross-functional units and uni-functional teams"
 description = "How to set up your team structures for growth."
 authors = ["Tobias Mende"]
-tags = ["Cross-functional Units"]
-categories = ["Company Structures"]
+tags = ["Team Topologies", "Software Development"]
+categories = ["Organizational Design"]
 externalLink = ""
 series = []
 +++
@@ -46,7 +46,9 @@ On the other side, a strong cross-functional unit usually has a high level of au
 
 I often see a tendency to put increased effort in aligning and unifying things across units. This might work well for 5-10 units, but will hardly scale to 20-30 units. Thus, we need a better approach:
 
-We need to learn how to care less about not being aligned.
+We need to learn how to care less about not being aligned.[^3]
+
+[^3]: Next week, I will follow up with a post about “Just care less about not being aligned”.
 
 ## What else we can do
 Besides learning to live with not being aligned, we can also foster alignment where it matters. If units cannot work completely independent but work on a shared codebase and influence each other, we can introduce some structures that can help us to unify the concerns that we care about.
