@@ -23,7 +23,7 @@ jobs:
           VPS_DEPLOY_KEY: ${{ secrets.VPS_DEPLOY_KEY }}
           VPS_DEPLOY_USER: ${{ secrets.VPS_DEPLOY_USER }}
           VPS_DEPLOY_HOST: mende.io
-          VPS_DEPLOY_DEST: /httpdocs
+          VPS_DEPLOY_DEST: ./httpdocs
         with:
           hugo-arguments: '--minify'
           rsync-arguments: '-rzP --delete'
