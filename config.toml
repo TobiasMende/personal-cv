@@ -27,11 +27,13 @@ author = "authors"
     avatarURL = "images/profile-square.jpg"
     dateFormat = "02.01.2006"
 
+    footerContent = "<a href=\"/imprint/\">Imprint</a> • <a href=\"/privacy-policy/\">Privacy Policy</a>"
+
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
     hidecredits = false
-    hidecopyright = true
+    hidecopyright = false
 
     colorScheme = "auto"
 
@@ -101,13 +103,3 @@ author = "authors"
     name = "CV"
     weight = 2
     url  = "/cv/"
-
-[[menu.main]]
-    name = "Imprint"
-    weight = 3
-    url  = "/imprint/"
-
-[[menu.main]]
-    name = "Privacy Policy"
-    weight = 3
-    url  = "/privacy-policy/"
