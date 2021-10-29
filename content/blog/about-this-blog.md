@@ -62,3 +62,5 @@ Platform concerns comprise building and maintaining components that are used by 
 I started this unit as the tech and product lead of that unit with seven other colleagues beginning of Q2/2021.
 # That’s it!
 And that’s it for now. That is the short version of the background and perspective, from which I am writing. I hope you find it interesting and helpful. Feel free to reach to via [LinkedIn](https://www.linkedin.com/in/tobiasmende/) or [Twitter](https://twitter.com/Tobias_Mende).
+
+_Disclaimer: All thoughts and opinions in this blog are my own. ;-)_
