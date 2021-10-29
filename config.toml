@@ -44,6 +44,11 @@ author = "authors"
 
     customCSS = ["css/custom.css", "css/print.css"]
 
+ # If you want to use Matomo(https://matomo.org) for analytics, add this section
+[params.matomo]
+    siteID = "41"
+    serverURL = "analytics.tobsolution.de"
+
 # Social Icons
 [[params.social]]
     name = "Github"
