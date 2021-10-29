@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2021-10-24T17:33:08+03:00
+date = 2021-10-24T11:00:00+01:00
 title = "About this blog"
 description = "After a break of three years, it is time to restart my blog from a different angle."
 authors = ["Tobias Mende"]
