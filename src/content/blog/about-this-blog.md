@@ -8,7 +8,6 @@ tags = ["Context"]
 categories = ["General"]
 series = []
 +++
-# About this blog
 In this blog, I will share my thoughts and learnings around software engineering, technical leadership, remote company culture and other related topics.
 
 I will share what I have seen working and what I have seen failing in the past. All articles are deeply influenced (speak “biased”) by my experiences and my opinion on certain topics. Furthermore, just because something worked for me in the past, it neither means it will work for you nor is it guaranteed to work for me in the future.

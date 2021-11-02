@@ -7,8 +7,6 @@ authors = ["Tobias Mende"]
 tags = ["Team Programmings"]
 categories = ["Software Craft"]
 +++
-
-# The value of team programmings
 In this article, I want to explain, why team programmings across units with developers from many backgrounds and areas of the codebase are extremely valuable for companies and individuals, but often undervalued and deprioritized by developers. I will focus on this specific type of team programmings, not about team programmings within a cross-functional unit, even though most of the benefits apply there as well.
 
 In companies, where [cross-functional units](/blog/cross-functional-units-uni-functional-teams/#cross-functional-units) are the norm rather than the exception, developers sometimes consider cross-unit team programmings less valuable. Therefore, only a small group of individuals is attending these team programmings, which can limit its value. The reasons for this are manifold.

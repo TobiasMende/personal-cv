@@ -7,7 +7,6 @@ authors = ["Tobias Mende"]
 tags = ["Team Topologies", "Software Development"]
 categories = ["Organizational Design"]
 +++
-# Just care less about not being aligned
 If you work in a company that is aiming for fast growth, being overly aligned will slow you down as the number of stakeholders increases. If every time I want to introduce a new linting rule I would need to agree with 55 other developers, I will likely not do it.
 
 Instead of forcing all units to use the same tech stack, the same code style, the same testing framework and so on, we need to learn to *just care less*.
