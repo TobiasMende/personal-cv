@@ -6,6 +6,7 @@ description = "Cross-unit team programmings are extremly valuable, both for deve
 authors = ["Tobias Mende"]
 tags = ["Team Programmings"]
 categories = ["Software Craft"]
+featuredImage = "/images/the-value-of-team-programmings.jpg"
 +++
 In this article, I want to explain, why team programmings across units with developers from many backgrounds and areas of the codebase are extremely valuable for companies and individuals, but often undervalued and deprioritized by developers. I will focus on this specific type of team programmings, not about team programmings within a cross-functional unit, even though most of the benefits apply there as well.
 
