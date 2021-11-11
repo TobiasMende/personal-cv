@@ -6,12 +6,18 @@ theme = "coder"
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "b2"
+pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
 disqusShortname = 'mende-2'
+
+[markup]
+  [markup.highlight]
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
 
 [taxonomies]
 category = "categories"

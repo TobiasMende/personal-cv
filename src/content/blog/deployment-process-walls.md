@@ -10,7 +10,6 @@ externalLink = ""
 series = []
 featuredImage = "/images/deployment-process-walls.jpg"
 +++
-# Do you have walls in your deployment process?
 Enabling units to quickly deploy and release new features to their customers is one of the goals of [cross-functional units](/blog/cross-functional-units-uni-functional-teams/#cross-functional-units) and the “you build it, you run it” DevOps mentality.
 
 However, coming from historical backgrounds of siloed teams and shared monoliths, this is often not the reality, in which units are operating today.
