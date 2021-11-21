@@ -1,7 +1,7 @@
 +++ 
 draft = false
 title = "Adopting Continuous Delivery: More a culture change than automation of processes"
-description = "When moving towards a more continuous software delivery proccess, focus on evolving the culture instead of just automating the processes."
+description = "When moving towards a more continuous software delivery process, focus on evolving the culture instead of just automating the processes."
 authors = ["Tobias Mende"]
 tags = ["Software Development", "Continuous Deployment"]
 categories = ["Software Craft", "Organizational Design"]
