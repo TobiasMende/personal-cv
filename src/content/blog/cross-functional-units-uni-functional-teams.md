@@ -47,7 +47,7 @@ I often see a tendency to put increased effort in aligning and unifying things a
 
 We need to learn how to care less about not being aligned.[^3]
 
-[^3]: Next week, I will follow up with a post about “Just care less about not being aligned”.
+[^3]: Read more in “[Just care less about not being aligned](/blog/just-care-less-about-not-being-aligned/)”.
 
 ## What else we can do
 Besides learning to live with not being aligned, we can also foster alignment where it matters. If units cannot work completely independent but work on a shared codebase and influence each other, we can introduce some structures that can help us to unify the concerns that we care about.
