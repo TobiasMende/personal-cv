@@ -14,7 +14,7 @@ When systems are small and the risk of introducing defects when changing its beh
 
 In other words, developers should be able to commit code to the mainline at any time, while not blocking deployments by doing so. Deployments need to be possible at any given time. Thus, it is essential to introduce feature branching techniques that enable developers to integrate code often without changing the behaviour.
 
-One of those techniques is **release toggles**. Release toggles allow developers to modify the behaviour at runtime and not at deployment time. Utilising this technique can be powerful because it allows developers to gradually rollout behaviour changes, to softly roll the back if something goes wrong and even to test in production without breaking anything.
+One of those techniques is **release toggles**. Release toggles allow developers to modify the behaviour at runtime and not at deployment time. Utilising this technique can be powerful because it allows developers to gradually rollout behaviour changes, to softly roll them back if something goes wrong and even to test in production without breaking anything.
 
 Furthermore, using release toggles to guard and control changes to the system behaviour is one of the essential practices that enable *save* continuous deployments.
 
