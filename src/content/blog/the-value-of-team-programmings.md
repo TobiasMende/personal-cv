@@ -4,7 +4,7 @@ date = 2021-11-13T11:00:00+01:00
 title = "The value of team programmings"
 description = "Cross-unit team programmings are extremely valuable, both for developers and companies, but are often underrated by developers and managers."
 authors = ["Tobias Mende"]
-tags = ["Team Programmings"]
+tags = ["Team Programming", "Ensemble Programming"]
 categories = ["Software Craft"]
 featuredImage = "/images/the-value-of-team-programmings.jpg"
 +++
