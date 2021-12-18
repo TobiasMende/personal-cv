@@ -78,7 +78,7 @@ Currently, we are working on making the automated end-to-end tests stable, fast 
 
 The deployment process then will not be much more than clicking a button. Once this is working sufficiently well, we aim to remove that button and fully automated the deployment every time build and test stages are green. Thus, developers will not need to be on a “deployment rotation” any longer, but deployments will happen continuously and fully automated.[^2]
 
-[^2]: Adopting continuous deployment is a more cultural shift than a matter of tooling and automating processes. This is beyond the scope of this article and to be continued in a future article.
+[^2]: Adopting continuous deployment is a [more cultural shift than a matter of tooling and automating processes](/blog/adopting-continous-delivery-culture/).
 
 ## Key Takeaways for your Context
 Where and how to start this change obviously depends on the company, the culture and where you are currently standing. If you see a problem with your deployment process (or any other matter), it helps to:
