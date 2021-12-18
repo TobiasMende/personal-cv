@@ -5,7 +5,7 @@ description = "Focus weeks are a tool for cracking difficult or complex topics a
 authors = ["Tobias Mende"]
 tags = ["Team Culture", "Team Programming", "Ensemble Programming"]
 categories = ["Culture", "Collaboration"]
-series = []
+series = ["Focus Weeks"]
 featuredImage = "/images/focus-weeks.jpg"
 date = 2021-12-18T11:00:00+01:00
 +++
