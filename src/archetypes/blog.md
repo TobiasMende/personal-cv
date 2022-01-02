@@ -1,12 +1,12 @@
 +++ 
-draft = false
 title = ""
 description = ""
-slug = ""
-authors = ["Tobias Mende"]
 tags = []
-categories = ["Software Craft"]
+categories = []
 series = []
+authors = ["Tobias Mende"]
 featuredImage = "/images/{{ .File.BaseFileName }}.jpg"
-date = {{ now.Format "2006-01-02" }}T11:00:00+01:00
+date = {{ substr .File.BaseFileName 0 10 }}T11:00:00+01:00
+slug = "{{ substr .File.BaseFileName 11 }}"
+draft = false
 +++
