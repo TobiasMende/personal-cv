@@ -8,6 +8,7 @@ categories = ["Culture", "Collaboration"]
 series = ["Focus Weeks"]
 featuredImage = "/images/focus-weeks.jpg"
 date = 2021-12-25T11:00:00+01:00
+slug = "focus-week-case-study"
 +++
 In my [last article](/blog/focus-weeks/), I wrote about focus weeks and how my team is currently doing them at BRYTER. Today, I want to share a case study of our latest focus week.
 

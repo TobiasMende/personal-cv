@@ -9,6 +9,7 @@ categories = ["Organizational Design"]
 externalLink = ""
 series = []
 featuredImage = "/images/cross-functional-units.jpg"
+slug = "cross-functional-units-uni-functional-teams"
 +++
 Many modern companies put a high emphasis on having multiple functions within one unit or team. The goal: The unit should be able to function with a high degree of autonomy, working on its area and owning everything in this area from beginning to end.
 

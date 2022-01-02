@@ -9,6 +9,7 @@ categories = ["Organizational Design", "Software Craft"]
 externalLink = ""
 series = []
 featuredImage = "/images/deployment-process-walls.jpg"
+slug = "deployment-process-walls"
 +++
 Enabling units to quickly deploy and release new features to their customers is one of the goals of [cross-functional units](/blog/cross-functional-units-uni-functional-teams/#cross-functional-units) and the “you build it, you run it” DevOps mentality.
 

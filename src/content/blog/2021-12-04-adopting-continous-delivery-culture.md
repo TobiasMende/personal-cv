@@ -8,6 +8,7 @@ categories = ["Software Craft", "Organizational Design"]
 series = []
 featuredImage = "/images/continuous-delivery-culture.jpg"
 date = 2021-12-04T11:00:00+01:00
+slug = "adopting-continous-delivery-culture"
 +++
 Continuous delivery, the process of automatically delivering changes of a system without human interaction, is one of the most beneficial practices that software teams can adopt. In [Accelerate](https://www.goodreads.com/en/book/show/35747076-accelerate), the authors Nicole Forsgren, Jez Humble and Gene Kim, discovered a strong link between using continuous delivery and organisational performance: Teams that continuously deliver their changes have a stronger sense of ownership, get faster feedback and need to rework their code less. Furthermore, deployments are less stressful and the risk of burnout is reduced.
 

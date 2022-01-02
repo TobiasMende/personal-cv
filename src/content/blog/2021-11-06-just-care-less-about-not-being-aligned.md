@@ -7,6 +7,7 @@ authors = ["Tobias Mende"]
 tags = ["Team Topologies", "Software Development"]
 categories = ["Organizational Design"]
 featuredImage = "/images/just-care-less-about-not-being-aligned.jpg"
+slug = "just-care-less-about-not-being-aligned"
 +++
 If you work in a company that is aiming for fast growth, being overly aligned will slow you down as the number of stakeholders increases. If every time I want to introduce a new linting rule I would need to agree with 55 other developers, I will likely not do it.
 

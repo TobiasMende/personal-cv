@@ -8,6 +8,7 @@ categories = ["Culture", "Collaboration"]
 series = ["Focus Weeks"]
 featuredImage = "/images/focus-weeks.jpg"
 date = 2021-12-18T11:00:00+01:00
+slug = "focus-weeks"
 +++
 Focus weeks are a tool for cracking difficult or complex topics as a team while fostering team collaboration and improving team culture.
 

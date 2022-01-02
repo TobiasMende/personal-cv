@@ -7,6 +7,7 @@ authors = ["Tobias Mende"]
 tags = ["Context"]
 categories = ["General"]
 series = []
+slug = "about-this-blog"
 +++
 In this blog, I will share my thoughts and learnings around software engineering, technical leadership, remote company culture and other related topics.
 

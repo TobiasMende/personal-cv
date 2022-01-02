@@ -9,6 +9,7 @@ categories = ["Software Craft"]
 externalLink = ""
 series = []
 featuredImage = "/images/decoupling-deployments-and-releases.jpg"
+slug = "decoupling-deployments-and-releases"
 +++
 When systems are small and the risk of introducing defects when changing its behaviour is low, these changes can happen during deployment. However, when systems grow, the behaviour becomes more complex and more people are working on the system, it is essential to decouple behaviour changes, the releases, from deployments.
 
