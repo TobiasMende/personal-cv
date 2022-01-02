@@ -1,7 +1,7 @@
 +++ 
 draft = false
 title = "Bonuses are bad – change my mind"
-description = "Bonuses shift an employee's interest from the long-term success of the company to the achievement of a short-term goal. By introducing bonuses, you are incentivising the achievement of a goal, that should not need any incentives, if it were the right goal to begin with."
+description = "Bonuses shift an employee's interest from the long-term success of the company to the achievement of a short-term goal. By introducing bonuses, you are incentivising the achievement of goals, that should not need any incentives, if they were the right goals to begin with."
 authors = ["Tobias Mende"]
 tags = ["Compensation"]
 categories = ["Organizational Design", "Culture"]
