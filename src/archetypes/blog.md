@@ -2,6 +2,7 @@
 draft = false
 title = ""
 description = ""
+slug = ""
 authors = ["Tobias Mende"]
 tags = []
 categories = ["Software Craft"]

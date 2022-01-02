@@ -8,6 +8,7 @@ categories = ["Organizational Design", "Software Craft"]
 series = []
 featuredImage = "/images/teams-need-slack.jpg"
 date = 2022-01-01T11:00:00+01:00
+slug = "why-teams-need-slack"
 +++
 At BRYTER, we are currently [hiring a lot](https://bryter.com/careers/). Therefore, we are of course also discussing how many people of which profession we really need. While *management* trusts us completely to make the right decisions here, sometimes I encounter that other people are afraid, that we hire people who are not 100% busy.
 
