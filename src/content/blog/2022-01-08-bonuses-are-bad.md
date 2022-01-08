@@ -55,7 +55,7 @@ While development got more complex and difficult and essential parts were delive
 
 They made it. They adhered to the deadline. The manager got the bonus. Well done.
 
-Unfortunately, the technical dept, the team was asked to take was extremely high. Furthermore, the product was full of bugs. The team needed to do weekend and night shifts to fix them. Many got unhappy. The best employees quit. Even worse: At some point, they had to call back all devices because of a critical bug. Customers were unhappy now, too. 
+Unfortunately, the technical debt, the team was asked to take was extremely high. Furthermore, the product was full of bugs. The team needed to do weekend and night shifts to fix them. Many got unhappy. The best employees quit. Even worse: At some point, they had to call back all devices because of a critical bug. Customers were unhappy now, too. 
 
 Was the project manager a bad person? No. But their career and bonus where on the line if they told the upper management that the project will be delayed. So, they decided to push it through. The damage for the company was huge.
 
