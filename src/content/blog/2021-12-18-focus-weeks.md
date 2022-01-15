@@ -83,6 +83,6 @@ We are using focus weeks sparingly to kick-off certain topics or to unblock comp
 
 That said, I still believe, that ideally focus weeks should not be needed. Teams should find enough time for focus and collaboration during *normal* weeks, and we are working on that. Currently, we are experimenting with a team support rotation. Therefore, one or two people would take care of all the external distractions, leaving the other people on the team with lots of focus time.
 
-Next week, I will share a case study about one of the focus weeks that we did. 
+Next week, I will share [a case study](/blog/focus-week-case-study/) about one of the focus weeks that we did. 
 
 **Are you having similar concepts such as focus weeks? What are your experiences? Share them here in the comments or via [LinkedIn](https://www.linkedin.com/in/tobiasmende/) or [Twitter](https://twitter.com/Tobias_Mende).**
