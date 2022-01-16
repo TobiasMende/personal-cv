@@ -3,7 +3,7 @@ source:
   - prof: Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to present
-    description: "Development of backend services in the decision automation field. Technical and product leadership in a cross-functional platform unit."
+    description: "Technical and product leadership in a cross-functional platform unit for developer experience. Working to provide great developer experience and improve developer productivity. Paving the pay to fast continuous delivery."
     technologies:
       - Kotlin
       - Spring Boot
@@ -11,6 +11,7 @@ source:
       - GitLab
       - VueJS
       - TypeScript
+      - Python
       - AWS
       - Kubernetes
   - prof: Tech Lead / Architect / Full-Stack Engineer
