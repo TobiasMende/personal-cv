@@ -7,7 +7,7 @@ draft: false
 ![Picture of me](/images/about-profile.jpg#floatright)
 Hi, my name is Tobias and I am a software craftsperson from northern Germany born in 1990.
 
-I finished my masters degree in computer science with focus on software systems architecture 2015 in Lübeck. Since then I have worked for Dräger Safety, developing application software using C++ and the QT framework until June 2018. Today I am working as a Remote Software Developer and Tech Lead for BRYTER. With my team, we are responsible for building our platform and for providing and great developer experience for other teams.
+I finished my masters degree in computer science with focus on software systems architecture 2015 in Lübeck. Since then I have worked for Dräger Safety, developing application software using C++ and the QT framework until June 2018. Today I am working as a Remote Software Developer and Tech Lead for BRYTER. With my team, we are responsible for providing and great developer experience for other teams and for enabling them to get their work done faster and better.
 
 On the side, I am responsible for the system architecture and for building and launching MVPs and Betas of [Weels](https://weels.site/), a video tool for improving conversion rates (currently German only).
 
