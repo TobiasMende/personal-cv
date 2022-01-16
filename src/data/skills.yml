@@ -25,13 +25,13 @@ source:
       - name: [ActiveMQ, Ansible, Java EE, Jenkins Pipeline DSL, Jenkins, Maven, MySQL, NodeJS, Selenium, Sonar, Terraform, VueJs]
         stars: 4
 
-      - name: [Express, Karaf, Kubernetes, MQTT, OSGi, React]
+      - name: [NoSQL, Karaf, Kubernetes, MQTT, OSGi, React]
         stars: 3
 
-      - name: [Angular, Cocoa, Google Protobuf, NoSQL, Ruby on Rails]
+      - name: [Angular, Cocoa, Google Protobuf, Ruby on Rails]
         stars: 2
 
-      - name: [Azure, Kafka]
+      - name: [Azure]
         stars: 1
 
 certificates:
