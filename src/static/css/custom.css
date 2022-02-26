@@ -2,3 +2,8 @@ img[src$='#floatright'] {
     float: right;
     margin: 1rem;
 }
+
+section.just-sharing p {
+    text-align: center;
+    font-style: italic;
+}

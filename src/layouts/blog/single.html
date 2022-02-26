@@ -36,17 +36,18 @@
           <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
         {{ end }}
         {{ .Content }}
+        {{ partial "blog/justsharing.html" . }}
       </div>
 
 
       <footer>
-        {{ partial "posts/series.html" . }}
-        {{ partial "posts/disqus.html" . }}
-        {{ partial "posts/commento.html" . }}
-        {{ partial "posts/utterances.html" . }}
+        {{ partial "blog/series.html" . }}
+        {{ partial "blog/disqus.html" . }}
+        {{ partial "blog/commento.html" . }}
+        {{ partial "blog/utterances.html" . }}
       </footer>
     </article>
 
-    {{ partial "posts/math.html" . }}
+    {{ partial "blog/math.html" . }}
   </section>
 {{ end }}
