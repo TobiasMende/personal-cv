@@ -88,3 +88,6 @@ That said, I still believe that DRY within a single context and team can be a va
 *Remark: There is nothing wrong with using components that are provided by another team, of course. However, it is crucial, that these components are officially owned and provided by that team as the interface of their system with clearly defined requirements and a clear purpose.*
 
 **What is your opinion about the DRY principle?  Share it here in the comments or via [LinkedIn](https://www.linkedin.com/in/tobiasmende/) or [Twitter](https://twitter.com/Tobias_Mende).**
+
+## Additional Reading
+- My colleague Philipp Giese wrote [an interesting article](https://philgiese.com/post/what-is-cohesion-and-why-should-you-care) about the DRY principle and how its application affects coupling and cohesion of software components.
