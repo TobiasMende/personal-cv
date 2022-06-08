@@ -68,7 +68,7 @@ First, many developer experience issues are related to some technical issues in 
 ## Be engaged with other teams
 As a developer experience team, it is crucial to always keep the connection to the other teams, as they are essentially your customers. It is important to frequently get their feedback and even work with them to see where they currently face challenges related to developer experience.
 
-There are many ways how this can be done, which will exceed the scope of this article. My next article  about interaction modes of a developer experience team will be dedicated to this topic.
+There are many ways how this can be done, which will exceed the scope of this article. My [next article](/blog/developer-experience-team-interaction-modes/)  about interaction modes of a developer experience team will be dedicated to this topic.
 
 ## Summary
 As product development teams, developer experience teams should also be shaped cross-functional and geared towards a high level of autonomy and independence. However, their work is different and might require more in-depth knowledge in areas where many engineers might not have extensive knowledge or experience. Thus, training can be even more essential in such a team.
