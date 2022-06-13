@@ -1,9 +1,9 @@
 name: Practical Experience
 source:
-  - prof: Senior Software Engineer
+  - prof: Tech Lead / Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to present
-    description: "Technical and product leadership in a cross-functional platform unit for developer experience. Working to provide great developer experience and improve developer productivity. Paving the pay to fast continuous delivery."
+    description: "Technical and product leadership in a cross-functional platform team for developer experience. Working to provide great developer experience and to improve developer productivity. Paving the way to fast continuous delivery."
     technologies:
       - Kotlin
       - Spring Boot
@@ -117,7 +117,7 @@ source:
     place: Institute of Technical Computer Science, University of Lübeck, Germany
     time: 01/2014 to 08/2014
     description: "Development of algorithms for the position control of autonomous underwater vehicles (AUVs) in C++ using the Robot Operating System (ROS). Setup of a coherent system for technical documentation, version control and continuous integration for AUV projects."
-    technologies: 
+    technologies:
       - C++
       - ROS
       - Git
@@ -138,4 +138,3 @@ source:
       - JNI
       - Git
       - ImtelliJ
-      
