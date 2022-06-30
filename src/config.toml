@@ -1,6 +1,6 @@
 baseURL = "https://mende.io/"
 languageCode = "en-us"
-title = "Tobias Mende"
+title = "Tobi(as Mende)"
 theme = "coder"
 
 paginate = 20
@@ -26,10 +26,10 @@ tag = "tags"
 author = "authors"
 
 [params]
-    author = "Tobias Mende"
-    info = ["Software Crafter", "Tech Lead", "Consultant"]
+    author = "Tobi(as Mende)"
+    info = ["he/him", "", "Software Crafter", "Tech Lead", "Consultant"]
     description = "Tobias Mende's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,consultant,personal"
     avatarURL = "images/profile-square.jpg"
     dateFormat = "02.01.2006"
 
@@ -38,7 +38,7 @@ author = "authors"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     colorScheme = "auto"
