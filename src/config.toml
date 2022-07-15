@@ -109,3 +109,8 @@ author = "authors"
     name = "CV"
     weight = 2
     url  = "/cv/"
+
+[[menu.main]]
+name = "Contact me"
+weight = 3
+url  = "/contact/"
