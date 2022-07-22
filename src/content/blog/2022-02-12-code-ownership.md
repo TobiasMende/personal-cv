@@ -1,7 +1,7 @@
 +++ 
 title = "Code Ownership: Keeping the balance between structure and agility"
 description = "Code ownership is an important topic when it comes to enabling your teams and allowing developers to improve the system while keeping the overhead of changes low. While today, most companies would (hopefully) agree, that individual code ownership is bad because it creates knowledge silos and makes the organisation dependent on individuals, code ownership still is essential on a larger scale."
-tags = ["Practices", "Software Development"]
+tags = ["Practices", "Software Development", "Technical Leadership"]
 categories = ["Software Craft", "Organizational Design"]
 series = ["Code Ownership"]
 authors = ["Tobias Mende"]
@@ -58,4 +58,3 @@ Code ownership should be an enabling structure that allows developers to change 
 A combination of collective code ownership within a team and weak code ownership across teams combines the benefits of both approaches.
 
 **How are you applying code ownership in your company? Share your experience here in the comments or via [LinkedIn](https://www.linkedin.com/in/tobiasmende/) or [Twitter](https://twitter.com/Tobias_Mende).**
- 

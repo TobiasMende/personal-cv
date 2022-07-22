@@ -1,7 +1,7 @@
 +++ 
 title = "Remote can be synchronous, too!"
 description = "Whether a team works synchronous or asynchronous is not determined by whether it is co-located or not. Both teams have to make an effort, if they want their work to be synchronous."
-tags = ["Team Culture"]
+tags = ["Team Culture", "Remote Work"]
 categories = ["Collaboration", "Culture"]
 series = []
 authors = ["Tobias Mende"]

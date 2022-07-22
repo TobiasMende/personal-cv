@@ -1,7 +1,7 @@
 +++ 
 title = "From two manual monolithic deployments a week to 15+ automated deployments a day"
 description = "We did it. Roughly two years after I joined BRYTER and one year after we started the developer experience team, we finally ended the era of manual deployments for roughly 15 teams."
-tags = ["Continuous Deployment", "Developer Experience", "Practices"]
+tags = ["Continuous Deployment", "Developer Experience", "Practices", "Technical Leadership"]
 categories = ["Software Craft", "Culture", "Testing"]
 series = ["Continuous Deployment"]
 authors = ["Tobias Mende"]

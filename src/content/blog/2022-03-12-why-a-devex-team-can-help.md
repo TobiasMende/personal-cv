@@ -1,7 +1,7 @@
 +++ 
 title = "Why a developer experience team can help your company"
 description = "Great developer experience is directly linked to great developer productivity and an important factor for company success. This article starts to answer the question how great developer experience can be achieved."
-tags = ["Developer Experience", "Team Topologies"]
+tags = ["Developer Experience", "Team Topologies", "Technical Leadership"]
 categories = ["Organizational Design"]
 series = ["Developer Experience"]
 authors = ["Tobias Mende"]
