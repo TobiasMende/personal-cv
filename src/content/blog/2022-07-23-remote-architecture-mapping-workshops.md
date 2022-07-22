@@ -29,6 +29,7 @@ We realised that our understanding of *the system* was *extremely diverse*.
 ## We needed a map
 
 When we realised that really nobody in the community had the full picture, we started to work on it. Of course, there are many ways how you could do this.
+
 - Somebody could just draw some diagrams and then tell everyone how the system looks like. — Boring.
 - We could try to autogenerate diagrams from the system. — Pointless.
 - Or: We map our system collaboratively. — Eye-opening.
@@ -48,12 +49,13 @@ I agree, and I think the same is true for extensive architecture mapping worksho
 We decided to run a couple of sessions of one hour each to create different maps/diagrams of the system together. We used the weekly slots that our community had blocked for gathering, anyway. One hour may not seem a lot for, when talking about architecture and creating diagrams, but that was precisely the key. — When sessions are too long, attention drifts away. This is especially true in a remote setup, where the distraction is just one tab away.
 
 ### The goals
-- 
+
 - **Get people talking:** Use the collaboration on the mapping to spark conversations that reveal questions and uncertainties. Find answers quickly in the group.
 - **Learn from each other:** Everybody has some unique knowledge about something in the system. Make sure that this knowledge is shared.
 - **Create a shared understanding of the system and its pain points:** When everybody sees a different system when thinking of BRYTER, communication is incredibly hard, as we are talking about different things. Once we have a shared understanding, it would be easier to see the biggest pain points and topics that need to be addressed in the bigger picture.
 
 ### The Anti-goals
+
 - **Have beautiful diagrams:** I have seen too many efforts to create diagrams failing because people could not agree on the shape of arrows or the color of boxes, or because they got distracted by prematurely beautifying the diagrams. For us, the diagrams were just a tool to spark conversations, we might revisit them later or throw them away, both outcomes are acceptable. Thus, the focus was on the conversation and not on the diagrams.
 - **Answer all the questions and solve all the problems in a couple of weeks:** It is not realistic, that we would address all topics that exist in just a couple of sessions. It is important to make this clear, so that people understand the value of the session without wrong expectations.
 
