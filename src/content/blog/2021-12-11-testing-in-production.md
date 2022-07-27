@@ -8,7 +8,7 @@ categories = ["Software Craft", "Testing"]
 series = []
 featuredImage = "/images/testing-in-production.jpg"
 date = 2021-12-11T11:00:00+01:00
-slug = "just-care-less-about-not-being-aligned"
+slug = "testing-in-production"
 +++
 Shipping software without testing sounds scary. And this is also, what this article **is not** about. Organisations spend a lot of time and money to make sure that code is as much error-free as possible, when it reaches production and affects users.
 
