@@ -3,17 +3,19 @@ source:
   - prof: Tech Lead / Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to present
-    description: "Technical and product leadership in a cross-functional platform team for developer experience. Working to provide great developer experience and to improve developer productivity. Paving the way to fast continuous delivery."
+    description: "Leadership in a cross-functional platform team for developer experience and productivity. Working to provide great developer experience and to improve developer productivity. Introducing continuous delivery, reducing lead time, guiding cultural, organisational and technical changes towards engineering excellence."
     technologies:
+      - AWS
+      - Kubernetes
+      - DataDog
+      - GitLab
+      - N8N
       - Kotlin
       - Spring Boot
       - Docker
-      - GitLab
       - VueJS
       - TypeScript
       - Python
-      - AWS
-      - Kubernetes
   - prof: Tech Lead / Architect / Full-Stack Engineer
     place: Weels, Remote
     time: 06/2021 to present

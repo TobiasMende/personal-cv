@@ -25,11 +25,11 @@ Today, I am working completely remotely as a Senior Software Engineer and Tech L
 
 Since establishing the team in April 2021, we fundamentally change the way how teams work at BRYTER.
 
-On the side, I am responsible for the system architecture and for building and launching MVPs and Betas of [Weels](https://weels.site/), a video tool for improving conversion rates on websites _(currently German only)_. Furthermore, I am one of the organisers of the [SoCraTes Germany (Un)conference](https://www.socrates-conference.de/).
+On the side, I am responsible for the system architecture and for building and launching [Weels](https://weels.site/), a video tool for improving conversion rates on websites _(currently German only)_. Furthermore, I am one of the organisers of the [SoCraTes Germany (Un)conference](https://www.socrates-conference.de/).
 
 Aside of my passion for software craft and finding solutions to complex problems, I enjoy the ocean. In my spare time, I am discovering the hidden world under the surface of the seas while diving. Apart from that, I am enjoying the sun while sailing, windsurfing or kiting. 
 
-Furthermore, I like to learn new programming languages and technologies and to develop software. Furthermore, I appreciate thought-provoking books about leadership and psychology.
+I like to learn new programming languages and technologies and to develop software. Furthermore, I appreciate thought-provoking books about leadership and psychology.
 
 You can find some but not all of my projects on my [GitLab](https://gitlab.com/TobiasMende) or [Github](https://github.com/TobiasMende/) account. If you want to know more about my skills, my interests, or my history or if you wish to connect with me, fell free to take a look at my [LinkedIn](https://www.linkedin.com/in/tobiasmende/) or follow me on [Twitter](https://twitter.com/tobias_mende).
 
