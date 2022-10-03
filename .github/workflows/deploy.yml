@@ -2,9 +2,9 @@ name: 'Build and deploy'
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: '1 10 * * 6'
   workflow_dispatch:
