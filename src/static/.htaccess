@@ -6,5 +6,15 @@ RedirectMatch 301 /blog/the-value-of-team-programmings/ https://unblocked.engine
 RedirectMatch 301 /blog/deployment-process-walls/ https://unblocked.engineering/blog/deployment-process-walls/
 RedirectMatch 301 /blog/decoupling-deployments-and-releases/ https://unblocked.engineering/blog/decoupling-deployments-and-releases/
 RedirectMatch 301 /blog/adopting-continous-delivery-culture/ https://unblocked.engineering/blog/adopting-continous-delivery-culture/
+RedirectMatch 301 /blog/testing-in-production/ https://unblocked.engineering/blog/testing-in-production/
+RedirectMatch 301 /blog/focus-weeks/ https://unblocked.engineering/blog/focus-weeks/
+RedirectMatch 301 /blog/focus-week-case-study/ https://unblocked.engineering/blog/focus-week-case-study/
+RedirectMatch 301 /blog/why-teams-need-slack/ https://unblocked.engineering/blog/why-teams-need-slack/
+RedirectMatch 301 /blog/bonuses-are-bad/ https://unblocked.engineering/blog/bonuses-are-bad/
+RedirectMatch 301 /blog/blameless-postmortems/ https://unblocked.engineering/blog/blameless-postmortems/
+RedirectMatch 301 /blog/okrs-are-not-guaranteed-deliveries/ https://unblocked.engineering/blog/okrs-are-not-guaranteed-deliveries/
+RedirectMatch 301 /blog/remote-can-be-synchronous-too/ https://unblocked.engineering/blog/remote-can-be-synchronous-too/
+RedirectMatch 301 /blog/developer-experience-platform-team/ https://unblocked.engineering/blog/developer-experience-platform-team/
+RedirectMatch 301 /blog/code-ownership/ https://unblocked.engineering/blog/code-ownership/
 
 </IfModule>
