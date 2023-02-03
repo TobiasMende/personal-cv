@@ -1,30 +1,31 @@
-name: 'Build and deploy'
+name: Build and Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
-  schedule:
-    - cron: '1 10 * * 6'
-  workflow_dispatch:
 
 jobs:
-  deploy-website:
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@master
+      - uses: actions/checkout@v3
         with:
           submodules: true
+          fetch-depth: 0
 
-      - name: Build and deploy website
-        uses: tobiasmende/hugo-rsync-deployment@master
-        env:
-          VPS_DEPLOY_KEY: ${{ secrets.VPS_DEPLOY_KEY }}
-          VPS_DEPLOY_USER: ${{ secrets.VPS_DEPLOY_USER }}
-          VPS_DEPLOY_HOST: mende.io
-          VPS_DEPLOY_DEST: ./httpdocs/
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-arguments: '--minify'
-          rsync-arguments: '-rzP --delete'
+          hugo-version: 'latest'
+
+      - name: Build
+        run: hugo --minify -s src
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./src/public
