@@ -3,11 +3,11 @@ source:
   - prof: Technical Consultant / Technical Coach / Founder
     place: unblocked.engineering – INOCEA Consulting Ltd.
     time: 10/2022 to present
-    description: "Helping software companies as a consultant and coach specializing in technical leadership and developer productivity, facilitating engineers to excel by removing technical, structural, and cultural obstacles."
+    description: "Helping software companies as a consultant and coach specialized in (technical) leadership and developer productivity, facilitating engineers to excel by removing technical, structural, and cultural obstacles."
   - prof: Tech Lead / Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to 01/2023
-    description: "Led cross-functional platform team to improve developer experience and productivity, implementing continuous delivery, reducing lead time and driving cultural and technical changes towards engineering excellence."
+    description: "Founded and led a cross-functional platform team to improve developer experience and productivity, implementing continuous delivery, reducing lead time and driving cultural and technical changes towards engineering excellence."
     technologies:
       - AWS
       - Kubernetes
