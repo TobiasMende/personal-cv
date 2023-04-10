@@ -6,11 +6,11 @@ draft: false
 
 ## Information provided according to Sec. 5 German Telemedia Act (TMG):
 
-Tobias Mende  
-AMN Data Solution #456780  
-Glogauer Str. 5  
-10999 Berlin  
-Germany  
+Tobias Mende
+INOCEA Consulting Ltd.
+Terra Santa 1, Office 7
+6012 Larnaca
+Cyprus
 (Letters only)
 
 ## Contact:
@@ -20,11 +20,11 @@ Email: web@mende.io
 
 ## Responsible for contents acc. to Sec. 55, para. 2 German Federal Broadcasting Agreement (RstV):
 
-Tobias Mende  
-AMN Data Solution #456780  
-Glogauer Str. 5  
-10999 Berlin  
-Germany
+Tobias Mende
+INOCEA Consulting Ltd.
+Terra Santa 1, Office 7
+6012 Larnaca
+Cyprus
 
 ## Liability for Contents
 
