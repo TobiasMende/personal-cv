@@ -25,6 +25,7 @@ INOCEA Consulting Ltd.
 Terra Santa 1, Office 7
 6012 Larnaca
 Cyprus
+(Letters only)
 
 ## Liability for Contents
 
