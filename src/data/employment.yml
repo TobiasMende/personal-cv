@@ -20,6 +20,8 @@ source:
       - VueJS
       - TypeScript
       - Python
+      - Terraform
+      - Pulumi
   - prof: Tech Lead / Architect / Full-Stack Engineer
     place: Weels, Remote
     time: 06/2021 to 02/2023
