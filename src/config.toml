@@ -27,7 +27,7 @@ author = "authors"
 
 [params]
     author = "Tobi(as Mende)"
-    info = ["Coach & Consultant", "", "Technical Leadership", "Developer Productivity", "Software Craft"]
+    info = ["Coach & Consultant", "", "(Technical) Leadership", "Developer Experience", "Software Craft"]
     description = "Tobias Mende's personal website"
     keywords = "blog,consultant,personal"
     avatarURL = "images/profile-square.jpg"

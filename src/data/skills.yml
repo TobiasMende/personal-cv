@@ -2,7 +2,7 @@ name: Skills
 source:
   - title: Programming Languages
     source:
-      - name: [Kotlin, TypeScript, Java, C++]
+      - name: [Kotlin, TypeScript, Java]
         stars: 5
 
       - name: [JavaScript, HTML5, CSS3, SQL]
@@ -11,11 +11,8 @@ source:
       - name: [Python, Groovy, Objective-C]
         stars: 3
 
-      - name: [Ruby, PHP]
+      - name: [Ruby, Go (golang), C++]
         stars: 2
-
-      - name: [Go (golang), Scala, Clojure]
-        stars: 1
 
   - title: Technologies, Tools and Methods
     source:
@@ -30,9 +27,6 @@ source:
 
       - name: [Angular, Cocoa, Google Protobuf, Ruby on Rails]
         stars: 2
-
-      - name: [Azure]
-        stars: 1
 
 certificates:
     - iSAQB Certified Professional For Software Architecture (Foundation Level)

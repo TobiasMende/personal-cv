@@ -1,10 +1,10 @@
 name: Practical Experience
 source:
-  - prof: Technical Consultant / Technical Coach / Founder
+  - prof: Technical (Agile) Coach / Leadership Consultant / Software Consultant / Founder
     place: unblocked.engineering – INOCEA Consulting Ltd.
     time: 06/2022 to present
-    description: "Helping software companies as a consultant and coach specialized in (technical) leadership and developer productivity, facilitating engineers to excel by removing technical, structural, and cultural obstacles."
-  - prof: Tech Lead / Senior Software Engineer
+    description: "Helping software companies as a consultant and coach specialized in (technical) leadership and developer experience, facilitating engineers to excel by removing technical, structural, and cultural obstacles."
+  - prof: Tech Lead / Product Lead / Senior Software Engineer
     place: BRYTER GmbH, Remote
     time: 06/2020 to 01/2023
     description: "Founded and led a cross-functional platform team to improve developer experience and productivity, implementing continuous delivery, reducing lead time and driving cultural and technical changes towards engineering excellence."
@@ -22,7 +22,7 @@ source:
       - Python
       - Terraform
       - Pulumi
-  - prof: Tech Lead / Architect / Full-Stack Engineer
+  - prof: Tech Lead / Architect / Full-Stack Engineer /  Co-Founder
     place: Weels, Remote
     time: 06/2021 to 02/2023
     description: "Weels – Reels for your website – A tool for conversion optimisation."
@@ -36,7 +36,7 @@ source:
       - NodeJS
       - GitLab
       - Docker
-  - prof: Senior Software Developer / Architect
+  - prof: Senior Software Developer / Architect / Tech Lead
     place: PAYONE GmbH, Remote
     time: 07/2018 to 05/2020
     description: "Development of payment connectors and fraud prevention systems. Refactoring of monolithic applications to self-contained services."
@@ -70,7 +70,7 @@ source:
       - Kanban
       - TDD
 
-  - prof: Software Engineer
+  - prof: Software Engineer / Tech Lead
     place: Dräger Safety GmbH & Co. KGaA, Lübeck, Germany
     time: 09/2015 to 06/2018
     description: "Application development for distributed gas detection systems. Teaching Git, Git Workflows and TDD. Driving Software Craft awareness."
@@ -95,7 +95,7 @@ source:
       - Kanban
       - TDD / BDD
 
-  - prof: Self-Employed in an Ancillary Trade
+  - prof: Self-Employed Web Developer / IT Consultant
     place: TOBSOLUTION, Lübeck, Germany
     time: 03/2004 to 08/2015
     description: "Developing custom web pages and web applications for small and medium businesses. Providing IT support and consulting as well as webhosting."
@@ -134,7 +134,7 @@ source:
   - prof: Student Teaching Assistant
     place: Institute for Software Engineering and Programming Languages, University of Lübeck, Germany
     time: 10/2011 to 07/2013
-    description: "Exercise instructor for the module Software Engineering. 􏰀Advisor for the software engineering practicum."
+    description: "Exercise instructor for the module Software Engineering. Advisor for the software engineering practicum."
 
   - prof: Student Research Assistant
     place: Institute of Telematics, University of Lübeck, Germany
@@ -145,4 +145,4 @@ source:
       - Android
       - JNI
       - Git
-      - ImtelliJ
+      - IntelliJ
