@@ -5,24 +5,24 @@ source:
       - name: [Kotlin, TypeScript, Java]
         stars: 5
 
-      - name: [JavaScript, HTML5, CSS3, SQL]
+      - name: [Go (golang), JavaScript, HTML5, CSS3, SQL]
         stars: 4
 
-      - name: [Python, Groovy, Objective-C]
+      - name: [Python, Groovy, Objective-C, Swift]
         stars: 3
 
-      - name: [Ruby, Go (golang), C++]
+      - name: [Ruby, C++]
         stars: 2
 
   - title: Technologies, Tools and Methods
     source:
-      - name: [AWS, CI/CD, Docker, GitHub, GitLab, Gradle, IntelliJ, Kanban, PostgreSQL, REST, Spring (Boot), TDD]
+      - name: [AWS, CI/CD, Docker, GitHub, GitLab, CircleCI, Gradle, Kubernetes, IntelliJ, Kanban, PostgreSQL, REST, Spring (Boot), TDD, NodeJS, Terraform, Pulumi, Playwright]
         stars: 5
 
-      - name: [ActiveMQ, Ansible, Java EE, Jenkins Pipeline DSL, Jenkins, Maven, MySQL, NodeJS, Selenium, Sonar, Terraform, VueJs]
+      - name: [GCP, Maven, MySQL, Selenium, Sonar, VueJs]
         stars: 4
 
-      - name: [NoSQL, Karaf, Kubernetes, MQTT, OSGi, React]
+      - name: [ActiveMQ, Ansible, Java EE, Jenkins Pipeline DSL, Jenkins, NoSQL, Karaf, MQTT, OSGi, React]
         stars: 3
 
       - name: [Angular, Cocoa, Google Protobuf, Ruby on Rails]

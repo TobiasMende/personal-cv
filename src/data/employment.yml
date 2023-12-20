@@ -1,6 +1,25 @@
 name: Practical Experience
 source:
-  - prof: Technical (Agile) Coach / Leadership Consultant / Software Consultant / Founder
+  - prof: Fractional CTO / (Technical) Advisor
+    place: Undisclosed Startup, Contract
+    time: 10/2023 to present
+    description: "Working with an early-stage startup, building and upskilling the founding team, reducing technical complexity, accelerating their software development while increasing quality and preparing them for the go-to-market."
+    technologies:
+      - GCP
+      - Go
+      - gRPC
+      - HTTP Rest
+      - Terraform
+      - JavaScript
+      - Docker
+      - Kubernetes
+      - Istio
+      - Elastic Search
+      - MongoDB
+      - iOS
+      - Swift
+      - CircleCI
+  - prof: Hands-on Technical Advisor / Leadership Consultant / Software Consultant / Founder
     place: unblocked.engineering – INOCEA Consulting Ltd.
     time: 06/2022 to present
     description: "Helping software companies as a consultant and coach specialized in (technical) leadership and developer experience, facilitating engineers to excel by removing technical, structural, and cultural obstacles."
