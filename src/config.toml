@@ -14,10 +14,10 @@ enableEmoji = true
 disqusShortname = 'mende-2'
 
 [markup]
-  [markup.highlight]
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
+[markup.highlight]
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
 
 [taxonomies]
 category = "categories"
@@ -26,86 +26,88 @@ tag = "tags"
 author = "authors"
 
 [params]
-    author = "Tobi(as Mende)"
-    info = ["Hands-on (Technical) Advisor", "", "(Technical) Leadership", "Developer Experience & Productivity", "Software Craft"]
-    description = "Tobias Mende's personal website"
-    keywords = "blog,consultant,personal"
-    avatarURL = "images/profile-square.jpg"
-    dateFormat = "02.01.2006"
+author = "Tobi(as Mende)"
+info = ["Hands-on (Technical) Advisor", "", "(Engineering) Leadership", "Developer Experience & Productivity", "Software Craft"]
+description = "Tobias Mende's personal website"
+keywords = "blog,consultant,personal"
+avatarURL = "images/profile-square.jpg"
+dateFormat = "02.01.2006"
 
-    footerContent = "<a href=\"/imprint/\">Imprint</a> • <a href=\"/privacy-policy/\">Privacy Policy</a>"
+footerContent = "<a href=\"/imprint/\">Imprint</a> • <a href=\"/privacy-policy/\">Privacy Policy</a>"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
 
-    hidecredits = true
-    hidecopyright = false
+hidecredits = true
+hidecopyright = false
 
-    colorScheme = "auto"
+colorScheme = "auto"
 
-    # Hide the toggle button, along with the associated vertical divider
-    hideColorSchemeToggle = false
-    # Series see also post count
-    maxSeeAlsoItems = 5
-    # Enable Twemoji
-    enableTwemoji = false
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Enable Twemoji
+enableTwemoji = false
 
-    customCSS = ["css/custom.css", "css/print.css"]
+customCSS = ["css/custom.css", "css/print.css"]
 
- # If you want to use Matomo(https://matomo.org) for analytics, add this section
+# If you want to use Matomo(https://matomo.org) for analytics, add this section
 [params.matomo]
-    siteID = "41"
-    serverURL = "analytics.tobsolution.de"
+siteID = "41"
+serverURL = "analytics.tobsolution.de"
 
 # Social Icons
 [[params.social]]
-    name = "Github"
-    icon = "fa fa-github"
-    weight = 1
-    url = "https://github.com/TobiasMende/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
-    weight = 2
-    url = "https://gitlab.com/TobiasMende"
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 1
+url = "https://www.linkedin.com/in/tobiasmende/"
 
 [[params.social]]
-    name = "StackOverflow"
-    icon = "fa fa-stack-overflow"
-    weight = 3
-    url = "https://stackoverflow.com/users/3795833/tobiasmende"
+name = "Calendly"
+icon = "fa fa-calendar"
+weight = 2
+url = "https://calendly.com/tobiasmende/30min"
 
 [[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter"
-    weight = 4
-    url = "https://twitter.com/tobias_mende"
+name = "Github"
+icon = "fa fa-github"
+weight = 3
+url = "https://github.com/TobiasMende/"
 
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-linkedin"
-    weight = 5
-    url = "https://www.linkedin.com/in/tobiasmende/"
+name = "Gitlab"
+icon = "fa fa-gitlab"
+weight = 4
+url = "https://gitlab.com/TobiasMende"
 
 [[params.social]]
-    name = "Xing"
-    icon = "fa fa-xing"
-    weight = 6
-    url = "https://www.xing.com/profile/Tobias_Mende/cv"
+name = "StackOverflow"
+icon = "fa fa-stack-overflow"
+weight = 5
+url = "https://stackoverflow.com/users/3795833/tobiasmende"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-twitter"
+weight = 6
+url = "https://twitter.com/tobias_mende"
+
 
 # Menu links
 
 [[menu.main]]
-   name = "Blog"
-   weight = 1
-   url  = "/blog/"
+name = "Blog"
+weight = 1
+url = "https://unblocked.engineering/blog/"
 
 [[menu.main]]
-    name = "About"
-    weight = 2
-    url  = "/about/"
+name = "About"
+weight = 2
+url = "/about/"
 
 [[menu.main]]
-    name = "CV"
-    weight = 2
-    url  = "/cv/"
+name = "CV"
+weight = 2
+url = "/cv/"
