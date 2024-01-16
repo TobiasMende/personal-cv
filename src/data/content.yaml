@@ -1,0 +1,348 @@
+BasicInfo:
+  FirstName: Tobi(as
+  LastName: Mende)
+  Photo: images/profile-round.jpg
+  Contacts:
+    - Icon: fas fa-calendar
+      Info: <a class="contact__link" href="https://calendly.com/tobiasmende/30min" target)"_blank">Schedule a Call</a>
+    - Icon: fas fa-envelope
+      Info: tobi@unblocked.engineering
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://unblocked.engineering" target="_blank">unblocked.engineering</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Europe (Germany, Cyprus, Spain)
+  Icons:
+    - Icon: fa-brands fa-linkedin
+      URL: https://www.linkedin.com/in/tobiasmende/
+    - Icon: fa-brands fa-github
+      URL: https://github.com/TobiasMende
+    - Icon: fa-brands fa-gitlab
+      URL: https://gitlab.com/TobiasMende
+
+
+Profile: I am a hands-on (technical) advisor helping software companies build better software faster. I collaborate with teams and leaders on technical, cultural, and systemic challenges. By leveraging the engineering experience and competencies, I have helped many companies in the past to achieve higher productivity and professionalism, better quality, increased employee satisfaction, and customer happiness.
+
+Experience:
+  - Employer: Undisclosed Startup, Contract
+    Place: Remote
+    Positions:
+      - Title: Fractional CTO / Technical Advisor
+        Date: Oct 2023 - Present
+        Details:
+          - Building and upskilling the founding team
+          - Reducing technical complexity
+          - Accelerating their software development
+          - Preparing the team and the software for the product launch.
+        Badges:
+          - CircleCI
+          - Docker
+          - Elastic Search
+          - GCP
+          - Go
+          - Istio
+          - JavaScript
+          - Kubernetes
+          - MongoDB
+          - NATS
+          - REST
+          - Swift
+          - Terraform
+          - gRPC
+          - iOS
+  - Employer: INOCEA Consulting Ltd., Self-employed
+    Place: Remote
+    Positions:
+      - Title: Founder / Technical Advisor
+        Date: Jun 2022 - Present
+        Details:
+          - Helping software companies build better software faster
+          - Leadership Coaching
+          - Technical Agile Coaching
+          - Software Architecture Consulting
+          - Known as <a href="https://unblocked.engineering" target="_blank">unblocked.engineering</a>
+  - Employer: BRYTER GmbH, Contract
+    Place: Remote
+    Positions:
+      - Title: Tech- & Product Lead / Sr. Software Engineer
+        Date: Jun 2020 - Jan 2023
+        Details:
+          - Founding and leading a cross-functional platform team for developer experience
+          - Introducing continuous deployments for 15 teams and 60 people
+          - Reducing pipeline lead time by over 70%
+          - Driving cultural and technical changes towards engineering excellence
+          - Coaching and training engineering teams in tooling and methodologies
+          - Co-founding and leading the technical leadership community
+          - Driving technical vision and strategy and defining architecture guidelines
+        Badges:
+          - AWS
+          - DataDog
+          - Docker
+          - GitLab
+          - Kotlin
+          - Kubernetes
+          - N8N
+          - Pulumi
+          - Python
+          - Spring Boot
+          - Terraform
+          - TypeScript
+          - VueJS
+  - Employer: Weels, Self-employed
+    Place: Remote
+    Positions:
+      - Title: Co-Founder, Architect, Full-Stack Engineer
+        Date: Jun 2021 - Feb 2023
+        Details:
+          - Building a high-performing video widget for websites
+          - Implementing the application (frontend, backend, infrastructure)
+        Badges:
+          - AWS
+          - Docker
+          - GitLab
+          - NodeJS
+          - Tailwind
+          - Terraform
+          - TypeScript
+          - VueJS
+          - Web Components
+  - Employer: PAYONE GmbH
+    Place: Remote
+    Positions:
+      - Title: Sr. Software Developer / Architect / Tech Lead
+        Date: Jul 2018 - May 2020
+        Details:
+          - Co-building and co-leading the first remote team
+          - Developing and operating payment connectors and fraud prevention systems
+          - Refactoring of monolithic applications to self-contained services
+          - Reducing deployment lead times by >50% and simplifying processes
+        Badges:
+          - ActiveMQ
+          - Ansible
+          - Apache
+          - Bitbucket
+          - Camel
+          - Confluence
+          - Docker
+          - Elastic Search
+          - Git
+          - Groovy
+          - Infinispan
+          - IntelliJ
+          - Java
+          - Jenkins
+          - Jira
+          - Kanban
+          - Karaf
+          - Kibana
+          - MySQL
+          - OSGi
+          - Puppet
+          - Spring (Boot)
+          - Swagger
+          - TDD
+          - Tomcat
+
+  - Employer: Dräger Safety GmbH & Co. KGaA
+    Place: Lübeck, Germany
+    Positions:
+      - Title: Software Engineer / Tech Lead / Architect
+        Date: Sep 2015 - Jun 2018
+        Details:
+          - Application development for distributed gas detection systems
+          - Teaching Git, Git Workflows and TDD
+          - Consulting teams on CI/CD pipelines and software design
+          - Driving software craft awareness across the engineering department
+        Badges:
+          - Azure Edge
+          - Bitbucket
+          - C++ (98/11/17)
+          - Confluence
+          - Docker
+          - Git
+          - Groovy
+          - IntelliJ
+          - Java
+          - Jenkins
+          - Jira
+          - Kanban
+          - Mercurial
+          - Python
+          - Qt
+          - QtCreator
+          - Scrum
+          - TDD / BDD
+          - VSCode
+  - Employer: TOBSOLUTION, Self-employed
+    Place: Lübeck, Germany
+    Positions:
+      - Title: Web Developer / IT Consultant
+        Date: Mar 2004 - Aug 2015
+        Details:
+          - Developing custom web pages and web applications for small and medium businesses
+          - Providing IT support and consulting as well as web hosting
+          - Consulting non-technical clients and understanding their needs
+        Badges:
+          - Apache
+          - CSS
+          - HTML5
+          - JavaScript
+          - Linux
+          - Nginx
+          - PHP
+          - Ruby on Rails
+          - Wordpress
+  - Employer: University of Lübeck
+    Place: Lübeck, Germany
+    Positions:
+      - Title: Student Research Assistant
+        Date: Sep 2013 - Jul 2015
+        Details:
+          - Institute of Telematics
+          - I/O-programming in Ruby an Java for research projects
+          - Administration of teaching groups for C++ and Java programming
+        Badges:
+          - Git
+          - IntelliJ
+          - Java
+          - Jenkins
+          - Netty
+          - Ruby
+          - XMPP
+      - Title: Student Research Assistant
+        Date: Jan 2014 - Aug 2014
+        Details:
+          - Institute of Technical Computer Science
+          - Development of algorithms for the position control of autonomous underwater vehicles (AUVs) in C++ using the Robot Operating System (ROS)
+          - Setup of a coherent system for technical documentation, version control and continuous integration for AUV projects
+        Badges:
+          - C++
+          - Eclipse
+          - Git
+          - Jenkins
+          - ROS
+      - Title: Student Research Assistant
+        Date: Oct 2011 - Jul 2013
+        Details:
+          - Institute for Software Engineering and Programming Languages
+          - Exercise instructor for the module Software Engineering
+          - Advisor for the software engineering practicum
+        Badges:
+          - Git
+          - Java
+          - Jenkins
+          - SonarCube
+          - TDD
+      - Title: Student Research Assistant
+        Date: Sep 2011 - Mar 2012
+        Details:
+          - Institute of Telematics
+          - Design and development of distributed algorithms for autonomous vehicles
+        Badges:
+          - Android
+          - Git
+          - IntelliJ
+          - JNI
+          - Java
+Education:
+  - Course: Master of Science in Computer Science (1.3)
+    Place: University of Lübeck
+    Date: Nov 2012 - Aug 2015
+    Details: Specialization in Software Systems Engineering, Smart Embedded Systems and Real-time verification
+  - Course: Bachelor of Science in Computer Science (1.8)
+    Place: University of Lübeck
+    Date: Oct 2009 - Nov 2012
+    Details: Specialization in Media Informatics, Human Machine Interaction and Machine Learning
+
+Skills:
+  - Family: Programming
+    Items:
+      - Kotlin
+      - Java
+      - TypeScript
+      - JavaScript
+      - Go
+      - Python
+      - Bash
+      - Swift
+      - HTML
+      - CSS
+  - Family: Frameworks
+    Items:
+      - Spring (Boot)
+      - NodeJS
+      - Express
+      - Vue
+      - React
+  - Family: Infrastructure
+    Items:
+      - PostgreSQL
+      - MySQL
+      - MongoDB
+      - DynamoDB
+      - N8N
+      - Linux
+      - Karaf
+      - Tomcat
+      - REST
+      - gRPC
+      - Istio
+      - AWS
+      - GCP
+      - Kibana
+      - Elastic Search
+      - Kubernetes
+      - OpenFaaS / Lambda / Cloud Functions
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - GitLab
+      - GitHub
+      - CircleCI
+      - Jenkins
+      - Pulumi
+      - Terraform
+      - Ansible
+      - DataDog
+      - IntelliJ
+      - Gradle
+      - Maven
+      - Playwright
+      - Selenium
+      - Jest
+  - Family: Methodologies
+    Items:
+      - Kanban
+      - Scrum
+      - Lean
+      - TDD
+      - BDD
+      - DDD
+      - Software Teaming
+      - Agile
+  - Family: Misc
+    Items:
+      - Notion
+      - N8N
+      - Jira
+      - Confluence
+      - ... ask me ;-) ...
+Languages:
+  - Name: German
+    Level: Native
+  - Name: English
+    Level: Professional
+
+Diplomas:
+  - iSAQB® Certified Professional for Software Architecture Foundation Level (2017)
+
+Interests:
+  - Automation
+  - Cooking
+  - Diving
+  - Hiking
+  - Psychology
+  - Reading
+  - Software Craft
+  - Water sports
+  - Writing

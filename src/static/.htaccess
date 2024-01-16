@@ -1,5 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
+RedirectMatch 301 /cv /
 RedirectMatch 301 /blog/cross-functional-units-uni-functional-teams/ https://unblocked.engineering/blog/cross-functional-units-uni-functional-teams/
 RedirectMatch 301 /blog/just-care-less-about-not-being-aligned/ https://unblocked.engineering/blog/just-care-less-about-not-being-aligned/
 RedirectMatch 301 /blog/the-value-of-team-programmings/ https://unblocked.engineering/blog/the-value-of-team-programmings/
@@ -29,5 +30,5 @@ RedirectMatch 301 /blog/scratch-the-backlog/ https://unblocked.engineering/blog/
 RedirectMatch 301 /blog/not-deploying-on-fridays-outdated-practice/ https://unblocked.engineering/blog/not-deploying-on-fridays-outdated-practice/
 RedirectMatch 301 /blog/remote-architecture-mapping-workshops/ https://unblocked.engineering/blog/remote-architecture-mapping-workshops/
 RedirectMatch 301 /blog/importance-of-developer-productivity/ https://unblocked.engineering/blog/importance-of-developer-productivity/
-
+RedirectMatch 301 /blog https://unblocked.engineering/blog
 </IfModule>

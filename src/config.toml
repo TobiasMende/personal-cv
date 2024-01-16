@@ -1,56 +1,27 @@
 baseURL = "https://mende.io/"
 languageCode = "en-us"
 title = "Tobi(as Mende)"
-theme = "coder"
-
-paginate = 20
-canonifyurls = true
-
-pygmentsstyle = "monokai"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-enableEmoji = true
-
-disqusShortname = 'mende-2'
-
-[markup]
-[markup.highlight]
-lineNoStart = 1
-lineNos = true
-lineNumbersInTable = true
-
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-author = "authors"
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 [params]
-author = "Tobi(as Mende)"
-info = ["Hands-on (Technical) Advisor", "", "(Engineering) Leadership", "Developer Experience & Productivity", "Software Craft"]
-description = "Tobias Mende's personal website"
-keywords = "blog,consultant,personal"
-avatarURL = "images/profile-square.jpg"
-dateFormat = "02.01.2006"
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#f3f5f8"
+colorPrimary = "#1c244b"
+colorSecondary = "#b3b6c2"
+colorIconPrimary = "#fff"
+colorIconBackground = "#1c244b"
+colorRightColumnBackground = "#b3b6c2"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#1c244b"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = true
 
-footerContent = "<a href=\"/imprint/\">Imprint</a> • <a href=\"/privacy-policy/\">Privacy Policy</a>"
-
-favicon_32 = "/img/favicon-32x32.png"
-favicon_16 = "/img/favicon-16x16.png"
-
-hidecredits = true
-hidecopyright = false
-
-colorScheme = "auto"
-
-# Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
-# Series see also post count
-maxSeeAlsoItems = 5
-# Enable Twemoji
-enableTwemoji = false
-
-customCSS = ["css/custom.css", "css/print.css"]
 
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 [params.matomo]
@@ -93,21 +64,3 @@ name = "Twitter"
 icon = "fa fa-twitter"
 weight = 6
 url = "https://twitter.com/tobias_mende"
-
-
-# Menu links
-
-[[menu.main]]
-name = "Blog"
-weight = 1
-url = "https://unblocked.engineering/blog/"
-
-[[menu.main]]
-name = "About"
-weight = 2
-url = "/about/"
-
-[[menu.main]]
-name = "CV"
-weight = 2
-url = "/cv/"
