@@ -53,7 +53,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s src
-      - name: html to pdf
+      - name: Generate PDF Version
         uses: ferdinandkeller/html-to-pdf-action@v1
         with:
           source-path: './src/public'
