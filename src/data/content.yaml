@@ -90,6 +90,7 @@ Experience:
           - Docker
           - GitLab
           - Kotlin
+          - Keycloak
           - Kubernetes
           - N8N
           - Pulumi
@@ -294,6 +295,7 @@ Skills:
       - Istio
       - Karaf
       - Kibana
+      - Keycloak
       - Kubernetes
       - Lambda
       - Linux
