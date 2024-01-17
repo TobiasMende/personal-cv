@@ -3,6 +3,7 @@ html {
 
   @media print {
     font-size: 62.5%;
+    background-color: unset;
   }
 }
 
@@ -14,6 +15,16 @@ html {
       &::after {
         display: none;
       }
+    }
+
+    @media print {
+      background-color: unset;
+    }
+  }
+
+  &__right {
+    @media print {
+      background-color: unset;
     }
   }
 
@@ -27,6 +38,13 @@ html {
     }
   }
 
+}
+
+.experience__badge {
+  @media print {
+    background-color: darken($color-light, 10%);
+    color: $color-primary;
+  }
 }
 
 .contact {
@@ -92,11 +110,9 @@ html {
   }
 }
 
-@media print {
-  @page {
-    margin: 1rem;
-  }
-}
+
+
+
 
 .footer {
   height: 4rem;
