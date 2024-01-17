@@ -61,6 +61,7 @@ Experience:
           - Elastic Search
           - GCP
           - Go
+          - Helm
           - Istio
           - JavaScript
           - Kubernetes
@@ -317,6 +318,8 @@ Skills:
       - GitHub
       - GitLab
       - Gradle
+      - Grafana
+      - Helm
       - IntelliJ
       - Jenkins
       - Jest
