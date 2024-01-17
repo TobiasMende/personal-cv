@@ -18,7 +18,7 @@ colorRightColumnHeadingText = "#666"
 colorRightColumnBodyText = "#666"
 colorRightColumnIconPrimary = "#fff"
 colorRightColumnIconBackground = "#1c244b"
-pages = 1
+pages = 3
 # Set this param to 'true' to swap the bar positions
 swapColumns = true
 
@@ -26,41 +26,4 @@ swapColumns = true
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 [params.matomo]
 siteID = "41"
-serverURL = "analytics.tobsolution.de"
-
-# Social Icons
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 1
-url = "https://www.linkedin.com/in/tobiasmende/"
-
-[[params.social]]
-name = "Calendly"
-icon = "fa fa-calendar"
-weight = 2
-url = "https://calendly.com/tobiasmende/30min"
-
-[[params.social]]
-name = "Github"
-icon = "fa fa-github"
-weight = 3
-url = "https://github.com/TobiasMende/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 4
-url = "https://gitlab.com/TobiasMende"
-
-[[params.social]]
-name = "StackOverflow"
-icon = "fa fa-stack-overflow"
-weight = 5
-url = "https://stackoverflow.com/users/3795833/tobiasmende"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 6
-url = "https://twitter.com/tobias_mende"
+serverURL = "https://analytics.tobsolution.de/"
