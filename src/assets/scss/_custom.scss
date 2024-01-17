@@ -4,7 +4,7 @@
 
     @media screen {
       &::after {
-        content: '2024 © Tobias Mende'!important;
+        display: none;
       }
     }
   }
@@ -42,6 +42,7 @@
       margin-right: 0.5rem;
       margin-bottom: 0.5rem;
     }
+
     & > span {
       @include vt-center;
     }
@@ -67,6 +68,7 @@
   &__long_item_list > li {
     margin-bottom: 0.5rem;
   }
+
   &__long_item_list:last-child {
     margin-bottom: 0rem;
   }
@@ -76,4 +78,42 @@
   @page {
     margin: 1rem;
   }
+}
+
+.footer {
+  height: 4rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0.5rem;
+  color: darken($color-light, 10%);
+  @media print {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      display: inline;
+      margin-right: 1rem;
+
+      &:not(:last-child):after {
+        margin-left: 1rem;
+        content: '|';
+      }
+    }
+  }
+
+
+
+  a {
+    color: darken($color-light, 10%);
+    text-decoration: none;
+
+    &:hover {
+      color: darken($color-light, 50%);
+    }
+  }
+
+
 }
