@@ -256,81 +256,81 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Kotlin
-      - Java
-      - TypeScript
-      - JavaScript
-      - Go
-      - Python
       - Bash
-      - Swift
-      - HTML
       - CSS
+      - Go
+      - HTML
+      - Java
+      - JavaScript
+      - Kotlin
+      - Python
+      - Swift
+      - TypeScript
   - Family: Frameworks
     Items:
-      - Spring (Boot)
-      - NodeJS
       - Express
-      - Vue
+      - NodeJS
       - React
+      - Spring (Boot)
+      - Vue
   - Family: Infrastructure
     Items:
-      - PostgreSQL
-      - MySQL
-      - MongoDB
-      - DynamoDB
-      - N8N
-      - Linux
-      - Karaf
-      - Tomcat
-      - REST
-      - gRPC
-      - Istio
       - AWS
-      - GCP
-      - Kibana
-      - Elastic Search
-      - Kubernetes
-      - OpenFaaS
-      - Lambda
       - Cloud Functions
+      - DynamoDB
+      - Elastic Search
+      - GCP
+      - Istio
+      - Karaf
+      - Kibana
+      - Kubernetes
+      - Lambda
+      - Linux
+      - MongoDB
+      - MySQL
+      - N8N
+      - OpenFaaS
+      - PostgreSQL
+      - REST
+      - Tomcat
+      - gRPC
   - Family: Developer Tools
     Items:
-      - Git
-      - Mercurial
-      - Docker
-      - GitLab
-      - GitHub
-      - CircleCI
-      - Jenkins
-      - Pulumi
-      - Terraform
       - Ansible
+      - CircleCI
       - DataDog
-      - IntelliJ
+      - Docker
+      - Git
+      - GitHub
+      - GitLab
       - Gradle
-      - Maven
-      - Playwright
-      - Selenium
+      - IntelliJ
+      - Jenkins
       - Jest
-      - Yarn
+      - Maven
+      - Mercurial
+      - Playwright
+      - Pulumi
+      - Selenium
+      - Terraform
       - TurboRepo
+      - Yarn
   - Family: Methodologies
     Items:
-      - Kanban
-      - Scrum
-      - Lean
-      - TDD
+      - Agile
       - BDD
       - DDD
+      - Kanban
+      - Lean
+      - Scrum
       - Software Teaming
-      - Agile
+      - TDD
   - Family: Misc
     Items:
-      - Notion
-      - N8N
-      - Jira
       - Confluence
+      - Jira
+      - N8N
+      - Notion
       - ... ask me ;-) ...
 Languages:
   - Name: German
