@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Tobi(as
   LastName: Mende)
-  Photo: images/profile-round.jpg
+  Photo: /images/profile-round.jpg
   Contacts:
     - Icon: fas fa-calendar
       Info: <a class="contact__link" href="https://calendly.com/tobiasmende/30min" target)"_blank">Schedule a Call</a>

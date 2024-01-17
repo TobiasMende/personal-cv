@@ -1,0 +1,26 @@
+{{ $data := or (index .Site.Data .Site.Language.Lang).content .Site.Data.content }}
+{{ .Scratch.Set "data" $data }}
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+<body>
+{{- partial "header.html" . -}}
+<div class="content">
+    <div class="content__left content__swapped__left">
+        <h1 class="mainHeading">{{ .Title }}</span></a>
+        </h1>
+        <article>
+        {{ .Content }}
+        </article>
+        {{- partial "footer.html" . -}}
+    </div>
+    <div class="content__right content__swapped__right">
+        {{ partial "_avatar.html" $data }}
+        {{ partial "_contacts.html" $data }}
+    </div>
+</div>
+{{ if .Site.Params.matomo.siteID }}
+{{ partial "_matomo.html" .Site.Params.matomo}}
+{{ end }}
+</body>
+</html>
