@@ -1,0 +1,34 @@
+{{ $data := or (index .Site.Data .Site.Language.Lang).content .Site.Data.content }}
+{{ .Scratch.Set "data" $data }}
+<!DOCTYPE html>
+<html lang="en">
+    {{ partial "head.html" . }}
+<body>
+    <div class="content">
+        {{ if .Site.Params.swapColumns }}
+        <div class="content__left content__swapped__left">
+        {{ else }}
+        <div class="content__left">
+        {{ end }}
+            <h1 class="mainHeading">{{ $data.BasicInfo.FirstName }} <span>{{ $data.BasicInfo.LastName }}</span></h1>
+            {{ partial "_profile.html" $data }}
+            {{ partial "_experience.html" $data }}
+            {{ partial "_education.html" $data }}
+            {{ partial "_references.html" $data }}
+        </div>
+        {{ if .Site.Params.swapColumns }}
+        <div class="content__right content__swapped__right">
+        {{ else }}
+        <div class="content__right">
+        {{ end }}
+            {{ partial "_avatar.html" $data }}
+            {{ partial "_contacts.html" $data }}
+            {{ partial "_skills.html" $data }}
+            {{ partial "_languages.html" $data }}
+            {{ partial "_diplomas.html" $data }}
+            {{ partial "_volunteering.html" $data }}
+            {{ partial "_interests.html" $data }}
+        </div>
+    </div>
+</body>
+</html>
