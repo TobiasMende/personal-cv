@@ -62,3 +62,12 @@
     text-align: left;
   }
 }
+
+.sideSection {
+  &__long_item_list > li {
+    margin-bottom: 0.5rem;
+  }
+  &__long_item_list:last-child {
+    margin-bottom: 0rem;
+  }
+}

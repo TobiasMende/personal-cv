@@ -4,7 +4,7 @@
         <h2 class="sideSection__title">Volunteering</h2>
     </div>
     <div class="sideSection__content">
-        <ul>
+        <ul class="sideSection__long_item_list">
             {{ range .Volunteering }}
             <li>{{ . | safeHTML }}</li>
             {{ end }}
