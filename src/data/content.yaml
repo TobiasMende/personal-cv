@@ -291,10 +291,13 @@ Skills:
       - Kibana
       - Elastic Search
       - Kubernetes
-      - OpenFaaS / Lambda / Cloud Functions
+      - OpenFaaS
+      - Lambda
+      - Cloud Functions
   - Family: Developer Tools
     Items:
       - Git
+      - Mercurial
       - Docker
       - GitLab
       - GitHub
@@ -310,6 +313,8 @@ Skills:
       - Playwright
       - Selenium
       - Jest
+      - Yarn
+      - TurboRepo
   - Family: Methodologies
     Items:
       - Kanban
@@ -346,3 +351,4 @@ Interests:
   - Software Craft
   - Water sports
   - Writing
+  - Cycling
