@@ -54,11 +54,10 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s src
       - name: html to pdf
-        uses: fifsky/html-to-pdf-action@master
+        uses: ferdinandkeller/html-to-pdf-action@v1
         with:
-          htmlFile: ./src/public/index.html
-          outputFile: ./src/public/cv.pdf
-          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          source-path: './src/public'
+          destination-path: './src/public/cv.pdf'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
