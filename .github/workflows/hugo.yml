@@ -53,6 +53,12 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s src
+      - name: html to pdf
+        uses: fifsky/html-to-pdf-action@master
+        with:
+          htmlFile: ./src/public/index.html
+          outputFile: ./src/public/cv.pdf
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
