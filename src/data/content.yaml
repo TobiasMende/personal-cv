@@ -23,7 +23,27 @@ BasicInfo:
 Profile: I am a hands-on (technical) advisor helping software companies build better software faster. I collaborate with teams and leaders on technical, cultural, and systemic challenges. By leveraging the engineering experience and competencies, I have helped many companies in the past to achieve higher productivity and professionalism, better quality, increased employee satisfaction, and customer happiness. Furthermore, I support clients as a software architect and engineer.
 
 Experience:
-  - Employer: INOCEA Consulting Ltd., Self-employed
+  - Employer: <a href="https://techunicorn.builders" target="_blank">Tech Unicorn Builders</a>, Self-employed
+    Place: Remote
+    Positions:
+      - Title: Co-Founder, CTO, & Consultant 
+        Date: May 2024 - Present
+        Details:
+          - Being part of a CTO/CPO tandem
+          - Hands-on consulting for startups in their growth challenges
+          - Build solutions for startup founders most common needs
+          - Changing the startup ecosystem toward more empathy and humaneness
+        Badges:
+          - Human-centric (Technical) Leadership
+          - Product Development
+          - Organizational Development
+          - Startups
+          - Systems Thinking
+          - DevEx Consulting
+          - Leadership Coaching
+          - Software Architecture
+          - Technical Advisory
+  - Employer: <a href="https://unblocked.engineering" target="_blank">unblocked.engineering</a>, Self-employed
     Place: Remote
     Positions:
       - Title: Founder, Technical Advisor, CTO
@@ -35,7 +55,6 @@ Experience:
           - Interims/fractional CTO for startups
           - Team coaching and leadership coaching
           - Hiring and building high-performing engineering teams
-          - Known as <a href="https://unblocked.engineering" target="_blank">unblocked.engineering</a>
         Badges:
           - DevEx Consulting
           - Leadership Coaching
@@ -45,11 +64,42 @@ Experience:
           - Technical Advisory
           - Technical Agile Coaching
           - Technical Leadership
+  - Employer: Seed-stage Startup, Contract
+    Place: Remote
+    Positions:
+      - Title: Interim/Fractional Senior Product Manager
+        Date: Apr 2024 – Present
+        Details:
+          - Introducing product discovery processes for better communication enabling teams to work on the right increments
+          - Running product strategy workshops
+          - Developing structures and processes for better product operations
+          - Product management for a mobile app
+        Badges:
+          - Product Management
+          - Product Strategy
+          - Product Operations
+          - Organizational Development
+      - Title: Technical Agile Coach and Advisor
+        Date: Apr 2024 – Present
+        Details:
+          - Coaching the dev team toward a continuous improvement mindset
+          - Introducing and facilitating retrospectives
+          - Introducing infrastructure as code
+          - Automating and accelerating deploy processes
+        Badges:
+          - Continuous Improvement
+          - Infrastructure as Code
+          - Technical Agile Coaching
+          - Technical Leadership
+          - DevEx Consulting
+          - Pulumi
+          - Typescript
+          - GitHub
   - Employer: Undisclosed Startup, Contract
     Place: Remote
     Positions:
       - Title: Technical Advisor and Technical Agile Coach
-        Date: Jan 2024 – Present
+        Date: Jan 2024 – Jun 2024
         Details:
           - Building and upskilling the team
           - Reducing technical complexity
