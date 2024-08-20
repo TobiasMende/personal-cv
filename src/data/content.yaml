@@ -95,8 +95,9 @@ Experience:
           - Technical Leadership
           - DevEx Consulting
           - Pulumi
-          - Typescript
-          - GitHub
+          - TypeScript
+          - GitHub Actions
+          - AWS
   - Employer: Undisclosed Startup, Contract
     Place: Remote
     Positions:
@@ -112,6 +113,7 @@ Experience:
           - OpenAPI
           - REST
           - CircleCI
+          - GCP
       - Title: Fractional CTO, Technical Advisor
         Date: Oct 2023 - Dec 2023
         Details:
@@ -161,6 +163,7 @@ Experience:
           - N8N
           - Playwright
           - Pulumi
+          - Ansible
           - Python
           - Selenium
           - Spring Boot
@@ -235,6 +238,7 @@ Experience:
           - Driving software craft awareness across the engineering department
         Badges:
           - Azure Edge
+          - Ansible
           - Bitbucket
           - C++ (98/11/17)
           - Confluence
