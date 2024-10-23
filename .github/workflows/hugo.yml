@@ -59,7 +59,7 @@ jobs:
           source-path: './src/public'
           destination-path: './src/public/cv.pdf'
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./src/public
 
