@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RedirectMatch 301 /cv /
+RedirectMatch 301 /cv https://cv.mende.io
 RedirectMatch 301 /blog/cross-functional-units-uni-functional-teams/ https://unblocked.engineering/blog/cross-functional-units-uni-functional-teams/
 RedirectMatch 301 /blog/just-care-less-about-not-being-aligned/ https://unblocked.engineering/blog/just-care-less-about-not-being-aligned/
 RedirectMatch 301 /blog/the-value-of-team-programmings/ https://unblocked.engineering/blog/the-value-of-team-programmings/
