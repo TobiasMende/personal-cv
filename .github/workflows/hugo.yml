@@ -54,7 +54,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             -s src
       - name: Generate PDF Version
-        uses: ferdinandkeller/html-to-pdf-action@v1
+        uses: TobiasMende/html-to-pdf-action@main
         with:
           source-path: './src/public'
           destination-path: './src/public/cv.pdf'
