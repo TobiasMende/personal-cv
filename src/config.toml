@@ -26,4 +26,4 @@ swapColumns = true
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 [params.matomo]
 siteID = "41"
-serverURL = "https://analytics.tobsolution.de/"
+serverURL = "https://analytics.inocea.consulting/"
