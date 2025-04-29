@@ -68,7 +68,7 @@ Experience:
           - Technical Advisory
           - Technical Agile Coaching
           - Technical Leadership
-  - Employer: Seed-stage Startup, Contract
+  - Employer: BOX ID, Interim/Fractional
     Place: Remote
     Positions:
       - Title: Interim/Fractional Senior Product Manager
@@ -90,6 +90,7 @@ Experience:
           - Introducing and facilitating retrospectives
           - Introducing infrastructure as code
           - Automating and accelerating deploy processes
+          - Introducing decision records
         Badges:
           - Continuous Improvement
           - Infrastructure as Code
@@ -101,6 +102,21 @@ Experience:
           - GitHub Actions
           - AWS
           - PostgreSQL
+      - Title: Interim Platform/DevOps Engineer 
+        Date: Apr 2025 – Present
+        Details:
+          - Implementing IaC and deployment pipelines
+          - Discussing and defining solutions and product increments with the engineering team
+          - Implementing backend services for mobile app authentication
+        Badges:
+          - DevOps / Platform Engineering
+          - Pulumi
+          - TypeScript
+          - GitHub Actions
+          - AWS
+          - NodeJS
+          - PostgreSQL
+          - Descope
   - Employer: Undisclosed Startup, Contract
     Place: Remote
     Positions:
@@ -160,6 +176,7 @@ Experience:
           - DataDog
           - Docker
           - GitLab
+          - Java
           - Kotlin
           - Keycloak
           - Kubernetes
