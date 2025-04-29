@@ -402,6 +402,7 @@ Skills:
     Items:
       - AWS
       - Cloud Functions
+      - CDK
       - DynamoDB
       - Elastic Search
       - GCP
