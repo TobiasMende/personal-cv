@@ -78,6 +78,7 @@ Experience:
           - Running product strategy workshops
           - Developing structures and processes for better product operations
           - Product management for a mobile app
+          - Coaching and mentoring leads
         Badges:
           - Product Management
           - Product Strategy
@@ -90,7 +91,7 @@ Experience:
           - Introducing and facilitating retrospectives
           - Introducing infrastructure as code
           - Automating and accelerating deploy processes
-          - Introducing decision records
+          - Introducing decision making & documentation processes
         Badges:
           - Continuous Improvement
           - Infrastructure as Code
@@ -102,7 +103,7 @@ Experience:
           - GitHub Actions
           - AWS
           - PostgreSQL
-      - Title: Interim Platform/DevOps Engineer 
+      - Title: Interim/Fractional Senior Platform/DevOps Engineer 
         Date: Apr 2025 – Present
         Details:
           - Implementing IaC and deployment pipelines
@@ -117,10 +118,11 @@ Experience:
           - NodeJS
           - PostgreSQL
           - Descope
-  - Employer: Undisclosed Startup, Contract
+          - Keycloak
+  - Employer: SortApp, Contract
     Place: Remote
     Positions:
-      - Title: Technical Advisor and Technical Agile Coach
+      - Title: Technical Advisor, Technical Agile Coach
         Date: Jan 2024 – Jun 2024
         Details:
           - Building and upskilling the team
@@ -254,7 +256,7 @@ Experience:
         Date: Sep 2015 - Jun 2018
         Details:
           - Application development for distributed gas detection systems
-          - Teaching Git, Git Workflows and TDD
+          - Teaching Git, Git Workflows, TDD and programming languages (C++, Java)
           - Consulting teams on CI/CD pipelines and software design
           - Driving software craft awareness across the engineering department
         Badges:
@@ -292,6 +294,7 @@ Experience:
           - CSS
           - HTML5
           - JavaScript
+          - Java
           - Linux
           - Nginx
           - PHP
